@@ -28,6 +28,7 @@ library
       Codewars.Arrays
       Codewars.Kata.Opposite
       EvenOrOdd
+      Haskell.Codewars.RemoveChar
       Multiply.Bug.Fix
       SquareSum
   other-modules:
@@ -57,6 +58,7 @@ test-suite haskell-katas-test
       Codewars.ArraysSpec
       Codewars.Kata.OppositeSpec
       EvenOrOddSpec
+      Haskell.Codewars.RemoveCharSpec
       Multiply.Bug.FixSpec
       SquareSumSpec
       Paths_haskell_katas
