@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Lib
+      Multiply.Bug.Fix
   other-modules:
       Paths_haskell_katas
   hs-source-dirs:
@@ -50,6 +51,7 @@ test-suite haskell-katas-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      Multiply.Bug.FixSpec
       Paths_haskell_katas
   hs-source-dirs:
       test
