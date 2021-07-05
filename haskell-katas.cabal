@@ -9,9 +9,9 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/borisskert/haskell-katas#readme>
 homepage:       https://github.com/borisskert/haskell-katas#readme
 bug-reports:    https://github.com/borisskert/haskell-katas/issues
-author:         Boris Skert
-maintainer:     boris.skert@gmail.com
-copyright:      2021 Boris Skert
+author:         Author name here
+maintainer:     Author email here
+copyright:      2019 Author name here
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Codewars.Arrays
+      Codewars.Kata.Opposite
       EvenOrOdd
       Multiply.Bug.Fix
       SquareSum
@@ -54,6 +55,7 @@ test-suite haskell-katas-test
   main-is: Spec.hs
   other-modules:
       Codewars.ArraysSpec
+      Codewars.Kata.OppositeSpec
       EvenOrOddSpec
       Multiply.Bug.FixSpec
       SquareSumSpec
