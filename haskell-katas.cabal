@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      Codewars.Arrays
       EvenOrOdd
       Multiply.Bug.Fix
       SquareSum
@@ -52,6 +53,7 @@ test-suite haskell-katas-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      Codewars.ArraysSpec
       EvenOrOddSpec
       Multiply.Bug.FixSpec
       SquareSumSpec
