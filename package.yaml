@@ -46,3 +46,4 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - haskell-katas
+    - hspec == 2.7.10
