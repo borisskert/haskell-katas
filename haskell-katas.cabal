@@ -30,6 +30,7 @@ library
       EvenOrOdd
       Haskell.Codewars.RemoveChar
       Multiply.Bug.Fix
+      Solution
       SquareSum
   other-modules:
       Paths_haskell_katas
@@ -60,6 +61,7 @@ test-suite haskell-katas-test
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
       Multiply.Bug.FixSpec
+      SolutionSpec
       SquareSumSpec
       Paths_haskell_katas
   hs-source-dirs:
