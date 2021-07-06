@@ -33,6 +33,7 @@ library
       Multiply.Bug.Fix
       Solution
       SquareSum
+      StringRepeat
   other-modules:
       Paths_haskell_katas
   hs-source-dirs:
@@ -65,6 +66,7 @@ test-suite haskell-katas-test
       Multiply.Bug.FixSpec
       SolutionSpec
       SquareSumSpec
+      StringRepeatSpec
       Paths_haskell_katas
   hs-source-dirs:
       test
