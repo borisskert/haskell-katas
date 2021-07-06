@@ -28,6 +28,7 @@ library
       Codewars.Arrays
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
+      CodeWars.SmallestInteger
       EvenOrOdd
       Haskell.Codewars.RemoveChar
       Multiply.Bug.Fix
@@ -63,6 +64,7 @@ test-suite haskell-katas-test
       Codewars.ArraysSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
+      CodeWars.SmallestIntegerSpec
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
       Multiply.Bug.FixSpec
