@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Codewars.Arrays
+      Codewars.Kata.Negative
       Codewars.Kata.Opposite
       EvenOrOdd
       Haskell.Codewars.RemoveChar
@@ -57,6 +58,7 @@ test-suite haskell-katas-test
   main-is: Spec.hs
   other-modules:
       Codewars.ArraysSpec
+      Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
