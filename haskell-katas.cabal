@@ -35,6 +35,7 @@ library
       Multiply.Bug.Fix
       Solution
       SquareSum
+      Stringify
       StringRepeat
       Summation
       YesNo
@@ -72,6 +73,7 @@ test-suite haskell-katas-test
       Multiply.Bug.FixSpec
       SolutionSpec
       SquareSumSpec
+      StringifySpec
       StringRepeatSpec
       SummationSpec
       YesNoSpec
