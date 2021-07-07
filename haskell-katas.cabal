@@ -28,6 +28,7 @@ library
       BasicMathematicalOperations
       Century
       Codewars.Arrays
+      Codewars.Kata.Convert
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
       Codewars.Kata.Sheep
@@ -72,6 +73,7 @@ test-suite haskell-katas-test
       BasicMathematicalOperationsSpec
       CenturySpec
       Codewars.ArraysSpec
+      Codewars.Kata.ConvertSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
       Codewars.Kata.SheepSpec
