@@ -29,6 +29,7 @@ library
       BasicMathematicalOperations
       Century
       Codewars.Arrays
+      Codewars.AverageCalculator
       Codewars.Kata.Convert
       Codewars.Kata.LostWithout
       Codewars.Kata.Negative
@@ -78,6 +79,7 @@ test-suite haskell-katas-test
       BasicMathematicalOperationsSpec
       CenturySpec
       Codewars.ArraysSpec
+      Codewars.AverageCalculatorSpec
       Codewars.Kata.ConvertSpec
       Codewars.Kata.LostWithoutSpec
       Codewars.Kata.NegativeSpec
