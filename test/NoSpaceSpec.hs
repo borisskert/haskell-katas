@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (noSpace)
+module NoSpaceSpec where
+import NoSpace (noSpace)
 import Test.Hspec
 
 spec :: Spec
