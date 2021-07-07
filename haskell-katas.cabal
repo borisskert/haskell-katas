@@ -34,6 +34,7 @@ library
       CodeWars.SmallestInteger
       EvenOrOdd
       Haskell.Codewars.RemoveChar
+      Initials
       Kata
       Litres
       Multiply.Bug.Fix
@@ -77,6 +78,7 @@ test-suite haskell-katas-test
       CodeWars.SmallestIntegerSpec
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
+      InitialsSpec
       KataSpec
       LitresSpec
       Multiply.Bug.FixSpec
