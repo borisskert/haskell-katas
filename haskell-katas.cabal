@@ -40,8 +40,9 @@ library
       EvenOrOdd
       Haskell.Codewars.RemoveChar
       Initials
-      IsDivisible
       Invert
+      IsDivisible
+      Kata
       Litres
       Multiply.Bug.Fix
       NoSpace
@@ -91,6 +92,7 @@ test-suite haskell-katas-test
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
       InitialsSpec
+      InvertSpec
       IsDivisibleSpec
       KataSpec
       LitresSpec
