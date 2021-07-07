@@ -30,6 +30,7 @@ library
       Century
       Codewars.Arrays
       Codewars.Kata.Convert
+      Codewars.Kata.LostWithout
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
       Codewars.Kata.Sheep
@@ -76,6 +77,7 @@ test-suite haskell-katas-test
       CenturySpec
       Codewars.ArraysSpec
       Codewars.Kata.ConvertSpec
+      Codewars.Kata.LostWithoutSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
       Codewars.Kata.SheepSpec
