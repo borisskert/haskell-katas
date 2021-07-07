@@ -41,7 +41,7 @@ library
       Haskell.Codewars.RemoveChar
       Initials
       IsDivisible
-      Kata
+      Invert
       Litres
       Multiply.Bug.Fix
       NoSpace

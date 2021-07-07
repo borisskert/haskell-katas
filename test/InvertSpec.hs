@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (invert)
+module InvertSpec where
+import Invert (invert)
 import Test.Hspec
 
 spec :: Spec
