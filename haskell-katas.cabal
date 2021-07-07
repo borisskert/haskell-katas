@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      BasicMathematicalOperations
       Century
       Codewars.Arrays
       Codewars.Kata.Negative
@@ -67,6 +68,7 @@ test-suite haskell-katas-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      BasicMathematicalOperationsSpec
       CenturySpec
       Codewars.ArraysSpec
       Codewars.Kata.NegativeSpec
