@@ -34,6 +34,7 @@ library
       EvenOrOdd
       Haskell.Codewars.RemoveChar
       Kata
+      Litres
       Multiply.Bug.Fix
       Solution
       SquareSum
@@ -74,6 +75,7 @@ test-suite haskell-katas-test
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
       KataSpec
+      LitresSpec
       Multiply.Bug.FixSpec
       SolutionSpec
       SquareSumSpec
