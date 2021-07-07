@@ -31,6 +31,7 @@ library
       Codewars.Arrays
       Codewars.AverageCalculator
       Codewars.Kata.Convert
+      Codewars.Kata.HelloWorld
       Codewars.Kata.LostWithout
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
@@ -83,6 +84,7 @@ test-suite haskell-katas-test
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
       Codewars.Kata.ConvertSpec
+      Codewars.Kata.HelloWorldSpec
       Codewars.Kata.LostWithoutSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
