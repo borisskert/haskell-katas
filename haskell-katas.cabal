@@ -35,11 +35,12 @@ library
       Codewars.Kata.Opposite
       Codewars.Kata.Sheep
       CodeWars.SmallestInteger
+      CountPositivesSumNegatives
       EvenOrOdd
       Haskell.Codewars.RemoveChar
       Initials
       IsDivisible
-      CountPositivesSumNegatives
+      Kata
       Litres
       Multiply.Bug.Fix
       NoSpace
@@ -83,6 +84,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositeSpec
       Codewars.Kata.SheepSpec
       CodeWars.SmallestIntegerSpec
+      CountPositivesSumNegativesSpec
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
       InitialsSpec
