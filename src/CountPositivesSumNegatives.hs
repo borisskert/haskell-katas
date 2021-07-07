@@ -1,4 +1,4 @@
-module Kata where
+module CountPositivesSumNegatives where
 
 -- https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/haskell
 

@@ -39,7 +39,7 @@ library
       Haskell.Codewars.RemoveChar
       Initials
       IsDivisible
-      Kata
+      CountPositivesSumNegatives
       Litres
       Multiply.Bug.Fix
       NoSpace

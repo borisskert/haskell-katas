@@ -1,6 +1,6 @@
-module KataSpec where
+module CountPositivesSumNegativesSpec where
 import Test.Hspec
-import Kata (countPositivesSumNegatives)
+import CountPositivesSumNegatives (countPositivesSumNegatives)
 
 spec :: Spec
 spec = do
