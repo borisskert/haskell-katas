@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module PastSpec (spec) where
 
 import Test.Hspec
-import Kata (past)
+import Past (past)
 
 spec :: Spec
 spec = do
