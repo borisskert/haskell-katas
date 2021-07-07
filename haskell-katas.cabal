@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      Century
       Codewars.Arrays
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
@@ -64,6 +65,7 @@ test-suite haskell-katas-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      CenturySpec
       Codewars.ArraysSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
