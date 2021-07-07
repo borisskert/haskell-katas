@@ -33,9 +33,10 @@ library
       CodeWars.SmallestInteger
       EvenOrOdd
       Haskell.Codewars.RemoveChar
-      NoSpace
+      Kata
       Litres
       Multiply.Bug.Fix
+      NoSpace
       Solution
       SquareSum
       Stringify
@@ -77,6 +78,7 @@ test-suite haskell-katas-test
       KataSpec
       LitresSpec
       Multiply.Bug.FixSpec
+      NoSpaceSpec
       SolutionSpec
       SquareSumSpec
       StringifySpec
