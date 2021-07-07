@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      ANeedleInTheHaystack
       BasicMathematicalOperations
       Century
       Codewars.Arrays
@@ -70,6 +71,7 @@ test-suite haskell-katas-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      ANeedleInTheHaystackSpec
       BasicMathematicalOperationsSpec
       CenturySpec
       Codewars.ArraysSpec
