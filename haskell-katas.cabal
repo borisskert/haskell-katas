@@ -38,7 +38,7 @@ library
       EvenOrOdd
       Haskell.Codewars.RemoveChar
       Initials
-      Kata
+      IsDivisible
       Litres
       Multiply.Bug.Fix
       NoSpace
@@ -85,7 +85,7 @@ test-suite haskell-katas-test
       EvenOrOddSpec
       Haskell.Codewars.RemoveCharSpec
       InitialsSpec
-      KataSpec
+      IsDivisibleSpec
       LitresSpec
       Multiply.Bug.FixSpec
       NoSpaceSpec

@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module IsDivisibleSpec (spec) where
 
 import Test.Hspec
-import Kata (isDivisible)
+import IsDivisible (isDivisible)
 
 spec :: Spec
 spec = do

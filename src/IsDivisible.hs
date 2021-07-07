@@ -1,4 +1,4 @@
-module Kata (isDivisible) where
+module IsDivisible (isDivisible) where
 
 isDivisible :: Int -> Int -> Int -> Bool
 isDivisible n x y = do
