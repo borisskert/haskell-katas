@@ -45,6 +45,7 @@ library
       Litres
       Multiply.Bug.Fix
       NoSpace
+      Numberfy
       Solution
       SquareSum
       Stringify
@@ -95,6 +96,7 @@ test-suite haskell-katas-test
       LitresSpec
       Multiply.Bug.FixSpec
       NoSpaceSpec
+      NumberfySpec
       SolutionSpec
       SquareSumSpec
       StringifySpec
