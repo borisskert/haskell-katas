@@ -50,6 +50,7 @@ library
       NoSpace
       Numberfy
       Past
+      ReverseWords
       Solution
       SquareSum
       Stringify
@@ -105,6 +106,7 @@ test-suite haskell-katas-test
       NoSpaceSpec
       NumberfySpec
       PastSpec
+      ReverseWordsSpec
       SolutionSpec
       SquareSumSpec
       StringifySpec
