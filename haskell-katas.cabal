@@ -61,6 +61,7 @@ library
       EvenOrOdd
       Expression
       FirstNonConsecutive
+      GradeBook
       Greeting
       Grow
       Haskell.Codewars.RemoveChar
@@ -154,6 +155,7 @@ test-suite haskell-katas-test
       EvenOrOddSpec
       ExpressionSpec
       FirstNonConsecutiveSpec
+      GradeBookSpec
       GreetingSpec
       GrowSpec
       Haskell.Codewars.RemoveCharSpec
