@@ -52,6 +52,7 @@ library
       Greeting
       Grow
       Haskell.Codewars.RemoveChar
+      HowGoodAreYou
       Initials
       Invert
       IsDivisible
@@ -124,6 +125,7 @@ test-suite haskell-katas-test
       GreetingSpec
       GrowSpec
       Haskell.Codewars.RemoveCharSpec
+      HowGoodAreYouSpec
       InitialsSpec
       InvertSpec
       IsDivisibleSpec
