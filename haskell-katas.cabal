@@ -52,6 +52,7 @@ library
       Numberfy
       Past
       ReverseWords
+      RevSeq
       Solution
       SquareSum
       Stringify
@@ -110,6 +111,7 @@ test-suite haskell-katas-test
       NumberfySpec
       PastSpec
       ReverseWordsSpec
+      RevSeqSpec
       SolutionSpec
       SquareSumSpec
       StringifySpec
