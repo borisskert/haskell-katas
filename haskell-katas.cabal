@@ -27,6 +27,7 @@ library
   exposed-modules:
       ANeedleInTheHaystack
       Average
+      Banjo
       BasicMathematicalOperations
       BodyMassIndex
       Bonus
@@ -105,6 +106,7 @@ test-suite haskell-katas-test
   other-modules:
       ANeedleInTheHaystackSpec
       AverageSpec
+      BanjoSpec
       BasicMathematicalOperationsSpec
       BodyMassIndexSpec
       BonusSpec
