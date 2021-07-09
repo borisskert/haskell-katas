@@ -70,6 +70,7 @@ library
       SquareSum
       Stringify
       StringRepeat
+      Sum
       Summation
       Survive
       TotalPoints
@@ -144,6 +145,7 @@ test-suite haskell-katas-test
       StringifySpec
       StringRepeatSpec
       SummationSpec
+      SumSpec
       SurviveSpec
       TotalPointsSpec
       YesNoSpec
