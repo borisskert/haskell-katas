@@ -46,6 +46,7 @@ library
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
       CountPositivesSumNegatives
+      CountSheep
       DnaToRna
       EvenOrOdd
       FirstNonConsecutive
@@ -120,6 +121,7 @@ test-suite haskell-katas-test
       Codewars.RockPaperScissorsSpec
       CodeWars.SmallestIntegerSpec
       CountPositivesSumNegativesSpec
+      CountSheepSpec
       DnaToRnaSpec
       EvenOrOddSpec
       FirstNonConsecutiveSpec
