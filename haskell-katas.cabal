@@ -46,6 +46,7 @@ library
       CountPositivesSumNegatives
       EvenOrOdd
       Greeting
+      Grow
       Haskell.Codewars.RemoveChar
       Initials
       Invert
@@ -113,6 +114,7 @@ test-suite haskell-katas-test
       CountPositivesSumNegativesSpec
       EvenOrOddSpec
       GreetingSpec
+      GrowSpec
       Haskell.Codewars.RemoveCharSpec
       InitialsSpec
       InvertSpec
