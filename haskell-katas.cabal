@@ -41,6 +41,7 @@ library
       Codewars.Kata.Monkeys
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
+      Codewars.Kata.Paperwork
       Codewars.Kata.Sheep
       CodeWars.SmallestInteger
       CountPositivesSumNegatives
@@ -109,6 +110,7 @@ test-suite haskell-katas-test
       Codewars.Kata.MonkeysSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
+      Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.SheepSpec
       CodeWars.SmallestIntegerSpec
       CountPositivesSumNegativesSpec
