@@ -69,6 +69,7 @@ library
       NoSpace
       Numberfy
       Past
+      RemoveExclamationMarks
       ReverseWords
       RevSeq
       Solution
@@ -148,6 +149,7 @@ test-suite haskell-katas-test
       NoSpaceSpec
       NumberfySpec
       PastSpec
+      RemoveExclamationMarksSpec
       ReverseWordsSpec
       RevSeqSpec
       SolutionSpec
