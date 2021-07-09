@@ -34,6 +34,7 @@ library
       Century
       Codewars.Arrays
       Codewars.AverageCalculator
+      Codewars.Cockroach
       Codewars.Kata.AlternatingCase
       Codewars.Kata.Convert
       Codewars.Kata.Count
@@ -119,6 +120,7 @@ test-suite haskell-katas-test
       CenturySpec
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
+      Codewars.CockroachSpec
       Codewars.Kata.AlternatingCaseSpec
       Codewars.Kata.ConvertSpec
       Codewars.Kata.CountSpec
