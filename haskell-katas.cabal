@@ -46,6 +46,7 @@ library
       Codewars.Kata.Opposite
       Codewars.Kata.Paperwork
       Codewars.Kata.Sheep
+      Codewars.MichM.SimpleMultiplication
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
       CountPositivesSumNegatives
@@ -128,6 +129,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositeSpec
       Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.SheepSpec
+      Codewars.MichM.SimpleMultiplicationSpec
       Codewars.RockPaperScissorsSpec
       CodeWars.SmallestIntegerSpec
       CountPositivesSumNegativesSpec
