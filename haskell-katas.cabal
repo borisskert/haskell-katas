@@ -53,6 +53,7 @@ library
       CountPositivesSumNegatives
       CountSheep
       DnaToRna
+      DoubleInteger
       EvenOrOdd
       Expression
       FirstNonConsecutive
@@ -139,6 +140,7 @@ test-suite haskell-katas-test
       CountPositivesSumNegativesSpec
       CountSheepSpec
       DnaToRnaSpec
+      DoubleIntegerSpec
       EvenOrOddSpec
       ExpressionSpec
       FirstNonConsecutiveSpec
