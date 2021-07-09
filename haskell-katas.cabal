@@ -43,6 +43,7 @@ library
       Codewars.Kata.Opposite
       Codewars.Kata.Paperwork
       Codewars.Kata.Sheep
+      Codewars.RockPaperScissors
       CodeWars.SmallestInteger
       CountPositivesSumNegatives
       DnaToRna
@@ -114,6 +115,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositeSpec
       Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.SheepSpec
+      Codewars.RockPaperScissorsSpec
       CodeWars.SmallestIntegerSpec
       CountPositivesSumNegativesSpec
       DnaToRnaSpec
