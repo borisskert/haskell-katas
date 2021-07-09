@@ -36,6 +36,7 @@ library
       Codewars.Arrays
       Codewars.AverageCalculator
       Codewars.Cockroach
+      Codewars.G964.Rentalcarcost
       Codewars.Kata.AlternatingCase
       Codewars.Kata.Convert
       Codewars.Kata.Count
@@ -126,6 +127,7 @@ test-suite haskell-katas-test
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
       Codewars.CockroachSpec
+      Codewars.G964.RentalcarcostSpec
       Codewars.Kata.AlternatingCaseSpec
       Codewars.Kata.ConvertSpec
       Codewars.Kata.CountSpec
