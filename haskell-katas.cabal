@@ -71,6 +71,7 @@ library
       Need
       NoSpace
       Numberfy
+      OddCounter
       Past
       RemoveExclamationMarks
       ReverseWords
@@ -155,6 +156,7 @@ test-suite haskell-katas-test
       NeedSpec
       NoSpaceSpec
       NumberfySpec
+      OddCounterSpec
       PastSpec
       RemoveExclamationMarksSpec
       ReverseWordsSpec
