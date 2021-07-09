@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       ANeedleInTheHaystack
+      Average
       BasicMathematicalOperations
       Century
       Codewars.Arrays
@@ -83,6 +84,7 @@ test-suite haskell-katas-test
   main-is: Spec.hs
   other-modules:
       ANeedleInTheHaystackSpec
+      AverageSpec
       BasicMathematicalOperationsSpec
       CenturySpec
       Codewars.ArraysSpec
