@@ -86,6 +86,7 @@ library
       SquareSum
       Stringify
       StringRepeat
+      StringToArray
       Sum
       Summation
       Survive
@@ -177,6 +178,7 @@ test-suite haskell-katas-test
       SquareSumSpec
       StringifySpec
       StringRepeatSpec
+      StringToArraySpec
       SummationSpec
       SumSpec
       SurviveSpec
