@@ -52,6 +52,7 @@ library
       Codewars.MichM.SimpleMultiplication
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
+      Codewars.Strings
       CountPositivesSumNegatives
       CountSheep
       DnaToRna
@@ -141,6 +142,7 @@ test-suite haskell-katas-test
       Codewars.MichM.SimpleMultiplicationSpec
       Codewars.RockPaperScissorsSpec
       CodeWars.SmallestIntegerSpec
+      Codewars.StringsSpec
       CountPositivesSumNegativesSpec
       CountSheepSpec
       DnaToRnaSpec
