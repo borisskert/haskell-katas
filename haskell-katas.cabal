@@ -50,6 +50,7 @@ library
       Invert
       IsDivisible
       Kata
+      Kata.ArrayPlusArray
       Litres
       Multiply.Bug.Fix
       Need
@@ -114,6 +115,7 @@ test-suite haskell-katas-test
       InitialsSpec
       InvertSpec
       IsDivisibleSpec
+      Kata.ArrayPlusArraySpec
       KataSpec
       LitresSpec
       Multiply.Bug.FixSpec
