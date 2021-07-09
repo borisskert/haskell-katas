@@ -50,6 +50,7 @@ library
       Kata
       Litres
       Multiply.Bug.Fix
+      Need
       NoSpace
       Numberfy
       Past
@@ -111,6 +112,7 @@ test-suite haskell-katas-test
       KataSpec
       LitresSpec
       Multiply.Bug.FixSpec
+      NeedSpec
       NoSpaceSpec
       NumberfySpec
       PastSpec
