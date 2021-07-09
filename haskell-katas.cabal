@@ -28,6 +28,7 @@ library
       ANeedleInTheHaystack
       Average
       BasicMathematicalOperations
+      BodyMassIndex
       Bonus
       Century
       Codewars.Arrays
@@ -94,6 +95,7 @@ test-suite haskell-katas-test
       ANeedleInTheHaystackSpec
       AverageSpec
       BasicMathematicalOperationsSpec
+      BodyMassIndexSpec
       BonusSpec
       CenturySpec
       Codewars.ArraysSpec
