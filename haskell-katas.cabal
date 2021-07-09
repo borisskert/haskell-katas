@@ -61,6 +61,7 @@ library
       Stringify
       StringRepeat
       Summation
+      Survive
       TotalPoints
       YesNo
   other-modules:
@@ -123,6 +124,7 @@ test-suite haskell-katas-test
       StringifySpec
       StringRepeatSpec
       SummationSpec
+      SurviveSpec
       TotalPointsSpec
       YesNoSpec
       Paths_haskell_katas
