@@ -34,6 +34,7 @@ library
       Codewars.Arrays
       Codewars.AverageCalculator
       Codewars.Kata.Convert
+      Codewars.Kata.Count
       Codewars.Kata.FakeBinary
       Codewars.Kata.HelloWorld
       Codewars.Kata.Jenny
@@ -109,6 +110,7 @@ test-suite haskell-katas-test
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
       Codewars.Kata.ConvertSpec
+      Codewars.Kata.CountSpec
       Codewars.Kata.FakeBinarySpec
       Codewars.Kata.HelloWorldSpec
       Codewars.Kata.JennySpec
