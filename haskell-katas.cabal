@@ -51,6 +51,7 @@ library
       CountSheep
       DnaToRna
       EvenOrOdd
+      Expression
       FirstNonConsecutive
       Greeting
       Grow
@@ -131,6 +132,7 @@ test-suite haskell-katas-test
       CountSheepSpec
       DnaToRnaSpec
       EvenOrOddSpec
+      ExpressionSpec
       FirstNonConsecutiveSpec
       GreetingSpec
       GrowSpec
