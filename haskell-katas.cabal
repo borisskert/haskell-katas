@@ -45,6 +45,7 @@ library
       Codewars.Kata.Sheep
       CodeWars.SmallestInteger
       CountPositivesSumNegatives
+      DnaToRna
       EvenOrOdd
       FirstNonConsecutive
       Greeting
@@ -115,6 +116,7 @@ test-suite haskell-katas-test
       Codewars.Kata.SheepSpec
       CodeWars.SmallestIntegerSpec
       CountPositivesSumNegativesSpec
+      DnaToRnaSpec
       EvenOrOddSpec
       FirstNonConsecutiveSpec
       GreetingSpec
