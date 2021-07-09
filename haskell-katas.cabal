@@ -79,6 +79,7 @@ library
       Numberfy
       OddCounter
       Past
+      PersonalisedGreeting
       RemoveExclamationMarks
       ReverseWords
       RevSeq
@@ -171,6 +172,7 @@ test-suite haskell-katas-test
       NumberfySpec
       OddCounterSpec
       PastSpec
+      PersonalisedGreetingSpec
       RemoveExclamationMarksSpec
       ReverseWordsSpec
       RevSeqSpec
