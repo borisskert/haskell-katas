@@ -46,6 +46,7 @@ library
       CodeWars.SmallestInteger
       CountPositivesSumNegatives
       EvenOrOdd
+      FirstNonConsecutive
       Greeting
       Grow
       Haskell.Codewars.RemoveChar
@@ -115,6 +116,7 @@ test-suite haskell-katas-test
       CodeWars.SmallestIntegerSpec
       CountPositivesSumNegativesSpec
       EvenOrOddSpec
+      FirstNonConsecutiveSpec
       GreetingSpec
       GrowSpec
       Haskell.Codewars.RemoveCharSpec
