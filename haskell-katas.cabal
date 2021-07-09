@@ -82,6 +82,7 @@ library
       Sum
       Summation
       Survive
+      TheFeastOfManyBeasts
       TotalPoints
       YesNo
   other-modules:
@@ -165,6 +166,7 @@ test-suite haskell-katas-test
       SummationSpec
       SumSpec
       SurviveSpec
+      TheFeastOfManyBeastsSpec
       TotalPointsSpec
       YesNoSpec
       Paths_haskell_katas
