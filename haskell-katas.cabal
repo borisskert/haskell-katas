@@ -61,6 +61,7 @@ library
       Kata
       Kata.ArrayPlusArray
       Litres
+      Mixed
       Multiply.Bug.Fix
       Need
       NoSpace
@@ -137,6 +138,7 @@ test-suite haskell-katas-test
       Kata.ArrayPlusArraySpec
       KataSpec
       LitresSpec
+      MixedSpec
       Multiply.Bug.FixSpec
       NeedSpec
       NoSpaceSpec
