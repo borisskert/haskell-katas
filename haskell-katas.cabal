@@ -28,6 +28,7 @@ library
       ANeedleInTheHaystack
       Average
       BasicMathematicalOperations
+      Bonus
       Century
       Codewars.Arrays
       Codewars.AverageCalculator
@@ -91,6 +92,7 @@ test-suite haskell-katas-test
       ANeedleInTheHaystackSpec
       AverageSpec
       BasicMathematicalOperationsSpec
+      BonusSpec
       CenturySpec
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
