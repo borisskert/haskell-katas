@@ -35,6 +35,7 @@ library
       Codewars.Kata.Convert
       Codewars.Kata.FakeBinary
       Codewars.Kata.HelloWorld
+      Codewars.Kata.Jenny
       Codewars.Kata.LostWithout
       Codewars.Kata.Monkeys
       Codewars.Kata.Negative
@@ -99,6 +100,7 @@ test-suite haskell-katas-test
       Codewars.Kata.ConvertSpec
       Codewars.Kata.FakeBinarySpec
       Codewars.Kata.HelloWorldSpec
+      Codewars.Kata.JennySpec
       Codewars.Kata.LostWithoutSpec
       Codewars.Kata.MonkeysSpec
       Codewars.Kata.NegativeSpec
