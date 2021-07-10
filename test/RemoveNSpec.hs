@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (remove)
+module RemoveNSpec where
+import RemoveN (remove)
 import Test.Hspec
 
 spec :: Spec
