@@ -44,6 +44,7 @@ library
       Codewars.Kata.Cuboids
       Codewars.Kata.FakeBinary
       Codewars.Kata.HelloWorld
+      Codewars.Kata.IsUpperCase
       Codewars.Kata.Jenny
       Codewars.Kata.LostWithout
       Codewars.Kata.Monkeys
@@ -148,6 +149,7 @@ test-suite haskell-katas-test
       Codewars.Kata.Cuboids.TestSpec
       Codewars.Kata.FakeBinarySpec
       Codewars.Kata.HelloWorldSpec
+      Codewars.Kata.IsUpperCaseSpec
       Codewars.Kata.JennySpec
       Codewars.Kata.LostWithoutSpec
       Codewars.Kata.MonkeysSpec
