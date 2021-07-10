@@ -72,6 +72,7 @@ library
       Initials
       Invert
       IsDivisible
+      Kata
       Kata.ArrayPlusArray
       Litres
       MakeUpper
@@ -169,6 +170,7 @@ test-suite haskell-katas-test
       InvertSpec
       IsDivisibleSpec
       Kata.ArrayPlusArraySpec
+      KataSpec
       LitresSpec
       MakeUpperSpec
       MixedSpec
