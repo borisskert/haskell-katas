@@ -28,6 +28,7 @@ library
       ANeedleInTheHaystack
       Animalz
       AreaPerimeter
+      Ascii
       Average
       Banjo
       BasicMathematicalOperations
@@ -160,6 +161,7 @@ test-suite haskell-katas-test
       ANeedleInTheHaystackSpec
       AnimalzSpec
       AreaPerimeterSpec
+      AsciiSpec
       AverageSpec
       BanjoSpec
       BasicMathematicalOperationsSpec
