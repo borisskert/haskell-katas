@@ -1,6 +1,6 @@
-module KataSpec where
+module GetVolumeOfCuboidSpec where
 import Test.Hspec
-import Kata (getVolumeOfCuboid)
+import GetVolumeOfCuboid (getVolumeOfCuboid)
 
 spec :: Spec
 spec = do
