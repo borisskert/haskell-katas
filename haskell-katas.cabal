@@ -115,6 +115,7 @@ library
       Planets
       PowersOfTwo
       Remove
+      RemoveDuplicates
       RemoveExclamationMarks
       Replace
       ReverseWords
@@ -248,6 +249,7 @@ test-suite haskell-katas-test
       PersonalisedGreetingSpec
       PlanetsSpec
       PowersOfTwoSpec
+      RemoveDuplicatesSpec
       RemoveExclamationMarksSpec
       RemoveSpec
       ReplaceSpec
