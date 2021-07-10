@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (howMuchILoveYou)
+module HowMuchILoveYouSpec where
+import HowMuchILoveYou (howMuchILoveYou)
 import Test.Hspec
 
 spec :: Spec
