@@ -93,6 +93,7 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
+      Kata
       Kata.ArrayPlusArray
       Light
       Litres
@@ -223,6 +224,7 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
+      KataSpec
       LightSpec
       LitresSpec
       MakeUpperSpec
