@@ -42,6 +42,7 @@ library
       Codewars.Cockroach
       Codewars.G964.NoZeros
       Codewars.G964.Rentalcarcost
+      Codewars.IsThisMyTail
       Codewars.Kata.AlternatingCase
       Codewars.Kata.Convert
       Codewars.Kata.Count
@@ -171,6 +172,7 @@ test-suite haskell-katas-test
       Codewars.CockroachSpec
       Codewars.G964.NoZerosSpec
       Codewars.G964.RentalcarcostSpec
+      Codewars.IsThisMyTailSpec
       Codewars.Kata.AlternatingCaseSpec
       Codewars.Kata.ConvertSpec
       Codewars.Kata.CountSpec
