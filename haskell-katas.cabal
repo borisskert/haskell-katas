@@ -74,6 +74,7 @@ library
       DivisibleBy
       DnaToRna
       DoubleInteger
+      Dutyfree
       EvenOrOdd
       Expression
       FirstNonConsecutive
@@ -204,6 +205,7 @@ test-suite haskell-katas-test
       DivisibleBySpec
       DnaToRnaSpec
       DoubleIntegerSpec
+      DutyfreeSpec
       EvenOrOddSpec
       ExpressionSpec
       FirstNonConsecutiveSpec
