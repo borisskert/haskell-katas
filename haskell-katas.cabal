@@ -84,6 +84,7 @@ library
       Grow
       Haskell.Codewars.ParseNiceInt
       Haskell.Codewars.RemoveChar
+      Health
       HexToDecimal
       HowGoodAreYou
       HowMuchILoveYou
@@ -211,6 +212,7 @@ test-suite haskell-katas-test
       GrowSpec
       Haskell.Codewars.ParseNiceIntSpec
       Haskell.Codewars.RemoveCharSpec
+      HealthSpec
       HexToDecimalSpec
       HowGoodAreYouSpec
       HowMuchILoveYouSpec
