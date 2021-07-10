@@ -80,6 +80,7 @@ library
       EvenOrOdd
       Expression
       FirstNonConsecutive
+      GameMove
       GetVolumeOfCuboid
       GooseFilter
       GradeBook
@@ -213,6 +214,7 @@ test-suite haskell-katas-test
       EvenOrOddSpec
       ExpressionSpec
       FirstNonConsecutiveSpec
+      GameMoveSpec
       GetVolumeOfCuboidSpec
       GooseFilterSpec
       GradeBookSpec
