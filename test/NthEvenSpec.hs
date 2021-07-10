@@ -1,6 +1,6 @@
-module KataSpec where
+module NthEvenSpec where
 
-import Kata
+import NthEven
 import Test.Hspec
 
 spec :: Spec

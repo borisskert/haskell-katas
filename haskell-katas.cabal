@@ -83,7 +83,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       Light
       Litres
@@ -92,6 +91,7 @@ library
       Multiply.Bug.Fix
       Need
       NoSpace
+      NthEven
       Numberfy
       OddCounter
       Past
@@ -199,7 +199,6 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LightSpec
       LitresSpec
       MakeUpperSpec
@@ -207,6 +206,7 @@ test-suite haskell-katas-test
       Multiply.Bug.FixSpec
       NeedSpec
       NoSpaceSpec
+      NthEvenSpec
       NumberfySpec
       OddCounterSpec
       PastSpec
