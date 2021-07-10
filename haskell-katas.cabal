@@ -82,7 +82,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       Light
       Litres
@@ -107,6 +106,7 @@ library
       Sum
       SumArray
       Summation
+      SumStr
       Survive
       TheFeastOfManyBeasts
       TotalPoints
@@ -194,7 +194,6 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LightSpec
       LitresSpec
       MakeUpperSpec
@@ -218,6 +217,7 @@ test-suite haskell-katas-test
       SumArraySpec
       SummationSpec
       SumSpec
+      SumStrSpec
       SurviveSpec
       Test.CodeWars.OCRMistakesSpec
       TheFeastOfManyBeastsSpec
