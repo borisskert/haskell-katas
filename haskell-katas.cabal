@@ -52,6 +52,7 @@ library
       Codewars.Kata.Sheep
       Codewars.Kata.Smash
       Codewars.MichM.SimpleMultiplication
+      CodeWars.OCRMistakes
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
       Codewars.Strings
@@ -190,6 +191,7 @@ test-suite haskell-katas-test
       SummationSpec
       SumSpec
       SurviveSpec
+      Test.CodeWars.OCRMistakesSpec
       TheFeastOfManyBeastsSpec
       TotalPointsSpec
       YesNoSpec
