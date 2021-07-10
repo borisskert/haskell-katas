@@ -41,6 +41,7 @@ library
       Codewars.Kata.AlternatingCase
       Codewars.Kata.Convert
       Codewars.Kata.Count
+      Codewars.Kata.Cuboids
       Codewars.Kata.FakeBinary
       Codewars.Kata.HelloWorld
       Codewars.Kata.Jenny
@@ -143,6 +144,7 @@ test-suite haskell-katas-test
       Codewars.Kata.AlternatingCaseSpec
       Codewars.Kata.ConvertSpec
       Codewars.Kata.CountSpec
+      Codewars.Kata.Cuboids.TestSpec
       Codewars.Kata.FakeBinarySpec
       Codewars.Kata.HelloWorldSpec
       Codewars.Kata.JennySpec
