@@ -35,6 +35,7 @@ library
       BodyMassIndex
       Bonus
       Century
+      CheckFactor
       Codewars.AlarmUtils
       Codewars.Arrays
       Codewars.AverageCalculator
@@ -162,6 +163,7 @@ test-suite haskell-katas-test
       BodyMassIndexSpec
       BonusSpec
       CenturySpec
+      CheckFactorSpec
       Codewars.AlarmUtilsSpec
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
