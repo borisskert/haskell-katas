@@ -1,6 +1,6 @@
-module KataSpec where
+module SumArraySpec where
 import Test.Hspec
-import Kata (sumArray)
+import SumArray (sumArray)
 
 spec :: Spec
 spec = do

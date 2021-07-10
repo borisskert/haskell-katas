@@ -72,7 +72,6 @@ library
       Initials
       Invert
       IsDivisible
-      Kata
       Kata.ArrayPlusArray
       Litres
       MakeUpper
@@ -93,6 +92,7 @@ library
       StringRepeat
       StringToArray
       Sum
+      SumArray
       Summation
       Survive
       TheFeastOfManyBeasts
@@ -169,7 +169,6 @@ test-suite haskell-katas-test
       InvertSpec
       IsDivisibleSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LitresSpec
       MakeUpperSpec
       MixedSpec
@@ -188,6 +187,7 @@ test-suite haskell-katas-test
       StringifySpec
       StringRepeatSpec
       StringToArraySpec
+      SumArraySpec
       SummationSpec
       SumSpec
       SurviveSpec
