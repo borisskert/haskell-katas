@@ -56,6 +56,7 @@ library
       CodeWars.OCRMistakes
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
+      Codewars.Stringifier
       Codewars.Strings
       CountPositivesSumNegatives
       CountSheep
@@ -155,6 +156,7 @@ test-suite haskell-katas-test
       Codewars.MichM.SimpleMultiplicationSpec
       Codewars.RockPaperScissorsSpec
       CodeWars.SmallestIntegerSpec
+      Codewars.StringifierSpec
       Codewars.StringsSpec
       CountPositivesSumNegativesSpec
       CountSheepSpec
