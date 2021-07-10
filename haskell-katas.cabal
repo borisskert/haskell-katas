@@ -106,6 +106,7 @@ library
       TheFeastOfManyBeasts
       TotalPoints
       Triangle
+      TwiceAsOld
       YesNo
   other-modules:
       Paths_haskell_katas
@@ -212,6 +213,7 @@ test-suite haskell-katas-test
       TheFeastOfManyBeastsSpec
       TotalPointsSpec
       TriangleSpec
+      TwiceAsOldSpec
       YesNoSpec
       Paths_haskell_katas
   hs-source-dirs:
