@@ -79,6 +79,7 @@ library
       IsDivisible
       Kata
       Kata.ArrayPlusArray
+      Light
       Litres
       MakeUpper
       Mixed
@@ -183,6 +184,7 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Kata.ArrayPlusArraySpec
       KataSpec
+      LightSpec
       LitresSpec
       MakeUpperSpec
       MixedSpec
