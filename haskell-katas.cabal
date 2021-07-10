@@ -103,6 +103,7 @@ library
       Survive
       TheFeastOfManyBeasts
       TotalPoints
+      Triangle
       YesNo
   other-modules:
       Paths_haskell_katas
@@ -206,6 +207,7 @@ test-suite haskell-katas-test
       Test.CodeWars.OCRMistakesSpec
       TheFeastOfManyBeastsSpec
       TotalPointsSpec
+      TriangleSpec
       YesNoSpec
       Paths_haskell_katas
   hs-source-dirs:
