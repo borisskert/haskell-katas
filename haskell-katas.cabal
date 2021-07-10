@@ -118,6 +118,7 @@ library
       Triangle
       TwiceAsOld
       WarnSheep
+      Well
       YesNo
   other-modules:
       Paths_haskell_katas
@@ -236,6 +237,7 @@ test-suite haskell-katas-test
       TriangleSpec
       TwiceAsOldSpec
       WarnSheepSpec
+      WellSpec
       YesNoSpec
       Paths_haskell_katas
   hs-source-dirs:
