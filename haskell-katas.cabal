@@ -57,6 +57,7 @@ library
       Codewars.Kata.Paperwork
       Codewars.Kata.Sheep
       Codewars.Kata.Smash
+      Codewars.Kata.Supersize
       Codewars.Kata.Watermelon
       Codewars.MichM.SimpleMultiplication
       CodeWars.OCRMistakes
@@ -178,6 +179,7 @@ test-suite haskell-katas-test
       Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.SheepSpec
       Codewars.Kata.SmashSpec
+      Codewars.Kata.SupersizeSpec
       Codewars.Kata.WatermelonSpec
       Codewars.MichM.SimpleMultiplicationSpec
       Codewars.RockPaperScissorsSpec
