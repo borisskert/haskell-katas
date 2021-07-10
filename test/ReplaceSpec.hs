@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata(replace)
+module ReplaceSpec where
+import Replace(replace)
 import Test.Hspec
 
 spec :: Spec

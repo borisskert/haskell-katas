@@ -90,7 +90,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       Light
       Litres
@@ -108,6 +107,7 @@ library
       Planets
       PowersOfTwo
       RemoveExclamationMarks
+      Replace
       ReverseWords
       RevSeq
       Solution
@@ -216,7 +216,6 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LightSpec
       LitresSpec
       MakeUpperSpec
@@ -233,6 +232,7 @@ test-suite haskell-katas-test
       PlanetsSpec
       PowersOfTwoSpec
       RemoveExclamationMarksSpec
+      ReplaceSpec
       ReverseWordsSpec
       RevSeqSpec
       SolutionSpec
