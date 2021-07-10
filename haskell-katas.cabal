@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       ANeedleInTheHaystack
+      AreaPerimeter
       Average
       Banjo
       BasicMathematicalOperations
@@ -125,6 +126,7 @@ test-suite haskell-katas-test
   main-is: Spec.hs
   other-modules:
       ANeedleInTheHaystackSpec
+      AreaPerimeterSpec
       AverageSpec
       BanjoSpec
       BasicMathematicalOperationsSpec
