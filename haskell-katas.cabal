@@ -84,6 +84,7 @@ library
       OddCounter
       Past
       PersonalisedGreeting
+      Planets
       RemoveExclamationMarks
       ReverseWords
       RevSeq
@@ -181,6 +182,7 @@ test-suite haskell-katas-test
       OddCounterSpec
       PastSpec
       PersonalisedGreetingSpec
+      PlanetsSpec
       RemoveExclamationMarksSpec
       ReverseWordsSpec
       RevSeqSpec
