@@ -72,6 +72,7 @@ library
       GradeBook
       Greeting
       Grow
+      Haskell.Codewars.ParseNiceInt
       Haskell.Codewars.RemoveChar
       HowGoodAreYou
       Initials
@@ -178,6 +179,7 @@ test-suite haskell-katas-test
       GradeBookSpec
       GreetingSpec
       GrowSpec
+      Haskell.Codewars.ParseNiceIntSpec
       Haskell.Codewars.RemoveCharSpec
       HowGoodAreYouSpec
       InitialsSpec
