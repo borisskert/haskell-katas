@@ -97,6 +97,7 @@ library
       Past
       PersonalisedGreeting
       Planets
+      PowersOfTwo
       RemoveExclamationMarks
       ReverseWords
       RevSeq
@@ -210,6 +211,7 @@ test-suite haskell-katas-test
       PastSpec
       PersonalisedGreetingSpec
       PlanetsSpec
+      PowersOfTwoSpec
       RemoveExclamationMarksSpec
       ReverseWordsSpec
       RevSeqSpec
