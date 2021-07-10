@@ -78,6 +78,7 @@ library
       GetVolumeOfCuboid
       GooseFilter
       GradeBook
+      GravityFlip
       Greeting
       Grow
       Haskell.Codewars.ParseNiceInt
@@ -201,6 +202,7 @@ test-suite haskell-katas-test
       GetVolumeOfCuboidSpec
       GooseFilterSpec
       GradeBookSpec
+      GravityFlipSpec
       GreetingSpec
       GrowSpec
       Haskell.Codewars.ParseNiceIntSpec
