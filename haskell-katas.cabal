@@ -51,6 +51,7 @@ library
       Codewars.Kata.Jenny
       Codewars.Kata.LostWithout
       Codewars.Kata.Monkeys
+      Codewars.Kata.Multiplying
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
       Codewars.Kata.Opposites
@@ -174,6 +175,7 @@ test-suite haskell-katas-test
       Codewars.Kata.JennySpec
       Codewars.Kata.LostWithoutSpec
       Codewars.Kata.MonkeysSpec
+      Codewars.Kata.MultiplyingSpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
       Codewars.Kata.OppositesSpec
