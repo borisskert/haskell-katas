@@ -79,6 +79,7 @@ library
       Initials
       Invert
       IsDivisible
+      Its.Timmys.Fault.Again
       Kata
       Kata.ArrayPlusArray
       Light
@@ -187,6 +188,7 @@ test-suite haskell-katas-test
       InitialsSpec
       InvertSpec
       IsDivisibleSpec
+      Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
       KataSpec
       LightSpec
