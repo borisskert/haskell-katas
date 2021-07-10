@@ -115,6 +115,7 @@ library
       TotalPoints
       Triangle
       TwiceAsOld
+      WarnSheep
       YesNo
   other-modules:
       Paths_haskell_katas
@@ -230,6 +231,7 @@ test-suite haskell-katas-test
       TotalPointsSpec
       TriangleSpec
       TwiceAsOldSpec
+      WarnSheepSpec
       YesNoSpec
       Paths_haskell_katas
   hs-source-dirs:
