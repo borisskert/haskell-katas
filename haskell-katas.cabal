@@ -156,6 +156,7 @@ library
       TotalPoints
       Triangle
       TwiceAsOld
+      Vowel
       WarnSheep
       Well
       WhoIsPaying
@@ -315,6 +316,7 @@ test-suite haskell-katas-test
       TotalPointsSpec
       TriangleSpec
       TwiceAsOldSpec
+      VowelSpec
       WarnSheepSpec
       WellSpec
       WhoIsPayingSpec
