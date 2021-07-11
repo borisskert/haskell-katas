@@ -131,6 +131,7 @@ library
       NumberToString
       OddCounter
       Palindroms
+      ParseFloat
       Past
       PersonalisedGreeting
       Planets
@@ -295,6 +296,7 @@ test-suite haskell-katas-test
       NumberToStringSpec
       OddCounterSpec
       PalindromsSpec
+      ParseFloatSpec
       PastSpec
       PersonalisedGreetingSpec
       PlanetsSpec
