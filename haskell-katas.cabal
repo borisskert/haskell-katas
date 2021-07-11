@@ -110,6 +110,7 @@ library
       MessiGoals
       Mixed
       MouthSize
+      MultipleOfIdx
       Multiply.Bug.Fix
       Need
       NoSpace
@@ -254,6 +255,7 @@ test-suite haskell-katas-test
       MessiGoalsSpec
       MixedSpec
       MouthSizeSpec
+      MultipleOfIdxSpec
       Multiply.Bug.FixSpec
       NeedSpec
       NoSpaceSpec
