@@ -115,6 +115,7 @@ library
       MouthSize
       MultipleOfIdx
       Multiply.Bug.Fix
+      NearestSquare
       Need
       NoSpace
       NthEven
@@ -263,6 +264,7 @@ test-suite haskell-katas-test
       MouthSizeSpec
       MultipleOfIdxSpec
       Multiply.Bug.FixSpec
+      NearestSquareSpec
       NeedSpec
       NoSpaceSpec
       NthEvenSpec
