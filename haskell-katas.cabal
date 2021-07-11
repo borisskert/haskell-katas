@@ -101,7 +101,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       LetsGoCrazy
       Light
@@ -109,6 +108,7 @@ library
       MakeUpper
       MessiGoals
       Mixed
+      MouthSize
       Multiply.Bug.Fix
       Need
       NoSpace
@@ -245,13 +245,13 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LetsGoCrazySpec
       LightSpec
       LitresSpec
       MakeUpperSpec
       MessiGoalsSpec
       MixedSpec
+      MouthSizeSpec
       Multiply.Bug.FixSpec
       NeedSpec
       NoSpaceSpec

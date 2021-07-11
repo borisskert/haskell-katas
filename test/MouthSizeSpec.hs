@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module MouthSizeSpec (spec) where
 
 import Test.Hspec
-import Kata (mouthSize)
+import MouthSize (mouthSize)
 
 spec :: Spec
 spec = do
