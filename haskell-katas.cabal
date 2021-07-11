@@ -45,6 +45,7 @@ library
       Codewars.Arrays
       Codewars.AverageCalculator
       Codewars.Cockroach
+      Codewars.Exercises.RepeatIt
       Codewars.G964.NoZeros
       Codewars.G964.Rentalcarcost
       Codewars.IsThisMyTail
@@ -205,6 +206,7 @@ test-suite haskell-katas-test
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
       Codewars.CockroachSpec
+      Codewars.Exercises.RepeatItSpec
       Codewars.G964.NoZerosSpec
       Codewars.G964.RentalcarcostSpec
       Codewars.IsThisMyTailSpec
