@@ -35,6 +35,7 @@ library
       Between
       BinToDecimal
       BlockSeats
+      Blue
       BodyMassIndex
       Bonus
       Century
@@ -193,6 +194,7 @@ test-suite haskell-katas-test
       BetweenSpec
       BinToDecimalSpec
       BlockSeatsSpec
+      BlueSpec
       BodyMassIndexSpec
       BonusSpec
       CenturySpec
