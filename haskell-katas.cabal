@@ -81,6 +81,7 @@ library
       CountSheep
       Dalmatians
       Diff
+      Divisible
       DivisibleBy
       DnaToRna
       DoubleInteger
@@ -233,6 +234,7 @@ test-suite haskell-katas-test
       DalmatiansSpec
       DiffSpec
       DivisibleBySpec
+      DivisibleSpec
       DnaToRnaSpec
       DoubleIntegerSpec
       DutyfreeSpec
