@@ -162,6 +162,7 @@ library
       TotalPoints
       Triangle
       TwiceAsOld
+      UFC
       Vowel
       WarnSheep
       Welcome
@@ -329,6 +330,7 @@ test-suite haskell-katas-test
       TotalPointsSpec
       TriangleSpec
       TwiceAsOldSpec
+      UFCSpec
       VowelSpec
       WarnSheepSpec
       WelcomeSpec
