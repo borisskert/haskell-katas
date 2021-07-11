@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module BetweenSpec (spec) where
 
 import Test.Hspec
-import Kata (between)
+import Between (between)
 
 spec :: Spec
 spec = do

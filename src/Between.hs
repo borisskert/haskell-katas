@@ -1,4 +1,4 @@
-module Kata (between) where
+module Between (between) where
 
 --  https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/haskell
 
