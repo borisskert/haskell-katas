@@ -130,6 +130,7 @@ library
       PersonalisedGreeting
       Planets
       PowersOfTwo
+      PriceOfMango
       Remove
       RemoveDuplicates
       RemoveEnd
@@ -285,6 +286,7 @@ test-suite haskell-katas-test
       PersonalisedGreetingSpec
       PlanetsSpec
       PowersOfTwoSpec
+      PriceOfMangoSpec
       RemoveDuplicatesSpec
       RemoveEndSpec
       RemoveExclamationMarksSpec
