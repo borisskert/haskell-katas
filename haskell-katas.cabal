@@ -106,7 +106,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       LetsGoCrazy
       Light
@@ -131,6 +130,7 @@ library
       PowersOfTwo
       Remove
       RemoveDuplicates
+      RemoveEnd
       RemoveExclamationMarks
       RemoveN
       Replace
@@ -260,7 +260,6 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LetsGoCrazySpec
       LightsabersSpec
       LightSpec
@@ -283,6 +282,7 @@ test-suite haskell-katas-test
       PlanetsSpec
       PowersOfTwoSpec
       RemoveDuplicatesSpec
+      RemoveEndSpec
       RemoveExclamationMarksSpec
       RemoveNSpec
       RemoveSpec
