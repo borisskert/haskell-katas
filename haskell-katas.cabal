@@ -38,6 +38,7 @@ library
       Bonus
       Century
       CheckFactor
+      Codewars.AlanPartridge.AppleTurnover
       Codewars.AlarmUtils
       Codewars.Arrays
       Codewars.AverageCalculator
@@ -184,6 +185,7 @@ test-suite haskell-katas-test
       BonusSpec
       CenturySpec
       CheckFactorSpec
+      Codewars.AlanPartridge.AppleTurnoverSpec
       Codewars.AlarmUtilsSpec
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
