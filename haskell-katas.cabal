@@ -60,6 +60,7 @@ library
       Codewars.Kata.Opposite
       Codewars.Kata.Opposites
       Codewars.Kata.Paperwork
+      Codewars.Kata.Reverse
       Codewars.Kata.Sheep
       Codewars.Kata.Shortcut
       Codewars.Kata.Smash
@@ -203,6 +204,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositeSpec
       Codewars.Kata.OppositesSpec
       Codewars.Kata.Paperwork.TestSpec
+      Codewars.Kata.ReverseSpec
       Codewars.Kata.SheepSpec
       Codewars.Kata.ShortcutSpec
       Codewars.Kata.SmashSpec
