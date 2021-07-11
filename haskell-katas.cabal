@@ -94,6 +94,7 @@ library
       Expression
       FirstNonConsecutive
       GameMove
+      GetNumberFromString
       GetVolumeOfCuboid
       GooseFilter
       GradeBook
@@ -261,6 +262,7 @@ test-suite haskell-katas-test
       ExpressionSpec
       FirstNonConsecutiveSpec
       GameMoveSpec
+      GetNumberFromStringSpec
       GetVolumeOfCuboidSpec
       GooseFilterSpec
       GradeBookSpec
