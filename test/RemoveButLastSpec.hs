@@ -1,6 +1,6 @@
-module KataSpec where
+module RemoveButLastSpec where
 import Test.Hspec
-import Kata (remove)
+import RemoveButLast (remove)
 
 spec :: Spec
 spec = do

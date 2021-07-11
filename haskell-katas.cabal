@@ -112,7 +112,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       LetsGoCrazy
       Light
@@ -140,6 +139,7 @@ library
       PowersOfTwo
       PriceOfMango
       Remove
+      RemoveButLast
       RemoveDuplicates
       RemoveEnd
       RemoveExclamationMarks
@@ -281,7 +281,6 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LetsGoCrazySpec
       LightsabersSpec
       LightSpec
@@ -307,6 +306,7 @@ test-suite haskell-katas-test
       PlanetsSpec
       PowersOfTwoSpec
       PriceOfMangoSpec
+      RemoveButLastSpec
       RemoveDuplicatesSpec
       RemoveEndSpec
       RemoveExclamationMarksSpec
