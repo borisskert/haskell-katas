@@ -61,6 +61,7 @@ library
       Codewars.Kata.Opposites
       Codewars.Kata.Paperwork
       Codewars.Kata.Sheep
+      Codewars.Kata.Shortcut
       Codewars.Kata.Smash
       Codewars.Kata.Supersize
       Codewars.Kata.Watermelon
@@ -200,6 +201,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositesSpec
       Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.SheepSpec
+      Codewars.Kata.ShortcutSpec
       Codewars.Kata.SmashSpec
       Codewars.Kata.SupersizeSpec
       Codewars.Kata.WatermelonSpec
