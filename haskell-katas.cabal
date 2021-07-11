@@ -153,6 +153,7 @@ library
       TwiceAsOld
       WarnSheep
       Well
+      WhoIsPaying
       YesNo
   other-modules:
       Paths_haskell_katas
@@ -306,6 +307,7 @@ test-suite haskell-katas-test
       TwiceAsOldSpec
       WarnSheepSpec
       WellSpec
+      WhoIsPayingSpec
       YesNoSpec
       Paths_haskell_katas
   hs-source-dirs:
