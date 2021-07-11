@@ -107,6 +107,7 @@ library
       Kata.ArrayPlusArray
       LetsGoCrazy
       Light
+      Lightsabers
       Litres
       MakeUpper
       MessiGoals
@@ -253,6 +254,7 @@ test-suite haskell-katas-test
       Kata.ArrayPlusArraySpec
       KataSpec
       LetsGoCrazySpec
+      LightsabersSpec
       LightSpec
       LitresSpec
       MakeUpperSpec
