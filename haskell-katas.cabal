@@ -161,6 +161,7 @@ library
       TwiceAsOld
       Vowel
       WarnSheep
+      Welcome
       Well
       WhoIsPaying
       YesNo
@@ -324,6 +325,7 @@ test-suite haskell-katas-test
       TwiceAsOldSpec
       VowelSpec
       WarnSheepSpec
+      WelcomeSpec
       WellSpec
       WhoIsPayingSpec
       YesNoSpec
