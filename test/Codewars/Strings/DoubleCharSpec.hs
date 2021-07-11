@@ -1,6 +1,6 @@
-module Codewars.StringsSpec where
+module Codewars.Strings.DoubleCharSpec where
 
-import Codewars.Strings (doubleChar)
+import Codewars.Strings.DoubleChar (doubleChar)
 import Test.Hspec
 
 spec :: Spec

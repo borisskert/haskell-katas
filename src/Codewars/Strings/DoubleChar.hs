@@ -1,4 +1,4 @@
-module Codewars.Strings where
+module Codewars.Strings.DoubleChar where
 
 -- https://www.codewars.com/kata/56b1f01c247c01db92000076/train/haskell
 
