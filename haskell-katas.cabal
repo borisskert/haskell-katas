@@ -71,6 +71,7 @@ library
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
       Codewars.Stringifier
+      Codewars.Strings
       Codewars.Strings.DoubleChar
       CountPositivesSumNegatives
       CountSheep
@@ -211,6 +212,7 @@ test-suite haskell-katas-test
       CodeWars.SmallestIntegerSpec
       Codewars.StringifierSpec
       Codewars.Strings.DoubleCharSpec
+      Codewars.StringsSpec
       CountPositivesSumNegativesSpec
       CountSheepSpec
       DalmatiansSpec
