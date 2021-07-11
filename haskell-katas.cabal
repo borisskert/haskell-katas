@@ -106,6 +106,7 @@ library
       HexToDecimal
       HowGoodAreYou
       HowMuchILoveYou
+      If
       Initials
       Invert
       IsDivisible
@@ -271,6 +272,7 @@ test-suite haskell-katas-test
       HexToDecimalSpec
       HowGoodAreYouSpec
       HowMuchILoveYouSpec
+      IfSpec
       InitialsSpec
       InvertSpec
       IsDivisibleSpec
