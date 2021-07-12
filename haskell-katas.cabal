@@ -76,6 +76,7 @@ library
       Codewars.Kata.Watermelon
       Codewars.Kata.Xor
       Codewars.MichM.SimpleMultiplication
+      Codewars.NameCombiner
       CodeWars.OCRMistakes
       Codewars.RockPaperScissors
       CodeWars.SmallestInteger
@@ -250,6 +251,7 @@ test-suite haskell-katas-test
       Codewars.Kata.WatermelonSpec
       Codewars.Kata.XorSpec
       Codewars.MichM.SimpleMultiplicationSpec
+      Codewars.NameCombinerSpec
       Codewars.RockPaperScissorsSpec
       CodeWars.SmallestIntegerSpec
       Codewars.StringifierSpec
