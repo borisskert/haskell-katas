@@ -117,6 +117,7 @@ library
       Its.Timmys.Fault.Again
       Kata
       Kata.ArrayPlusArray
+      Kata.Contamination1
       Kata.Example.Twist
       LetsGoCrazy
       Light
@@ -291,6 +292,7 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
+      Kata.Contamination1Spec
       Kata.Example.TwistSpec
       KataSpec
       LetsGoCrazySpec
