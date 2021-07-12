@@ -111,6 +111,7 @@ library
       HexToDecimal
       HowGoodAreYou
       HowMuchILoveYou
+      HQ9
       If
       Initials
       Invert
@@ -289,6 +290,7 @@ test-suite haskell-katas-test
       HexToDecimalSpec
       HowGoodAreYouSpec
       HowMuchILoveYouSpec
+      HQ9Spec
       IfSpec
       InitialsSpec
       InvertSpec
