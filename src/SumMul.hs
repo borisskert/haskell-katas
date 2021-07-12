@@ -1,4 +1,4 @@
-module Kata where
+module SumMul where
 
 -- https://www.codewars.com/kata/57241e0f440cd279b5000829/train/haskell
 

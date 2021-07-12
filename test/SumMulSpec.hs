@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata
+module SumMulSpec where
+import SumMul
 import Test.Hspec
 
 spec = do

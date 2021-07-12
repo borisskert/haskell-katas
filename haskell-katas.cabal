@@ -112,7 +112,6 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       LetsGoCrazy
       Light
@@ -158,6 +157,7 @@ library
       Sum
       SumArray
       Summation
+      SumMul
       SumStr
       Survive
       TheFeastOfManyBeasts
@@ -282,7 +282,6 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
-      KataSpec
       LetsGoCrazySpec
       LightsabersSpec
       LightSpec
@@ -326,6 +325,7 @@ test-suite haskell-katas-test
       StringToArraySpec
       SumArraySpec
       SummationSpec
+      SumMulSpec
       SumSpec
       SumStrSpec
       SurviveSpec
