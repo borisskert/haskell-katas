@@ -143,6 +143,7 @@ library
       ParseFloat
       Past
       PersonalisedGreeting
+      Pillars
       Planets
       PowersOfTwo
       PriceOfMango
@@ -320,6 +321,7 @@ test-suite haskell-katas-test
       ParseFloatSpec
       PastSpec
       PersonalisedGreetingSpec
+      PillarsSpec
       PlanetsSpec
       PowersOfTwoSpec
       PriceOfMangoSpec
