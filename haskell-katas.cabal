@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       ANeedleInTheHaystack
+      Animals
       Animalz
       AreaPerimeter
       ASCII
@@ -203,6 +204,7 @@ test-suite haskell-katas-test
   main-is: Spec.hs
   other-modules:
       ANeedleInTheHaystackSpec
+      AnimalsSpec
       AnimalzSpec
       AreaPerimeterSpec
       ASCIISpec
