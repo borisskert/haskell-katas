@@ -83,6 +83,7 @@ library
       Codewars.Stringifier
       Codewars.Strings
       Codewars.Strings.DoubleChar
+      CoefficientsOfTheQuadraticEquation
       CountPositivesSumNegatives
       CountSheep
       Dalmatians
@@ -257,6 +258,7 @@ test-suite haskell-katas-test
       Codewars.StringifierSpec
       Codewars.Strings.DoubleCharSpec
       Codewars.StringsSpec
+      CoefficientsOfTheQuadraticEquationSpec
       CountPositivesSumNegativesSpec
       CountSheepSpec
       DalmatiansSpec
