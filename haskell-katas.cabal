@@ -132,6 +132,7 @@ library
       Numberfy
       NumberToString
       OddCounter
+      Odds
       Palindroms
       ParseFloat
       Past
@@ -302,6 +303,7 @@ test-suite haskell-katas-test
       NumberfySpec
       NumberToStringSpec
       OddCounterSpec
+      OddsSpec
       PalindromsSpec
       ParseFloatSpec
       PastSpec
