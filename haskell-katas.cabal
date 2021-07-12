@@ -112,6 +112,7 @@ library
       Invert
       IsDivisible
       Its.Timmys.Fault.Again
+      Kata
       Kata.ArrayPlusArray
       LetsGoCrazy
       Light
@@ -281,6 +282,7 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
+      KataSpec
       LetsGoCrazySpec
       LightsabersSpec
       LightSpec
