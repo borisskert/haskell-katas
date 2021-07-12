@@ -28,6 +28,7 @@ library
       ANeedleInTheHaystack
       Animalz
       AreaPerimeter
+      ASCII
       Ascii
       Average
       Banjo
@@ -114,6 +115,7 @@ library
       Its.Timmys.Fault.Again
       Kata
       Kata.ArrayPlusArray
+      Kata.Example.Twist
       LetsGoCrazy
       Light
       Lightsabers
@@ -200,6 +202,7 @@ test-suite haskell-katas-test
       ANeedleInTheHaystackSpec
       AnimalzSpec
       AreaPerimeterSpec
+      ASCIISpec
       AsciiSpec
       AverageSpec
       BanjoSpec
@@ -284,6 +287,7 @@ test-suite haskell-katas-test
       IsDivisibleSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
+      Kata.Example.TwistSpec
       KataSpec
       LetsGoCrazySpec
       LightsabersSpec
