@@ -64,6 +64,7 @@ library
       Codewars.Kata.Jenny
       Codewars.Kata.LostWithout
       Codewars.Kata.Monkeys
+      Codewars.Kata.Multiply
       Codewars.Kata.Multiplying
       Codewars.Kata.Negative
       Codewars.Kata.Opposite
@@ -121,6 +122,7 @@ library
       Kata.ArrayPlusArray
       Kata.Contamination1
       Kata.Example.Twist
+      Kata.WhoseMove
       LetsGoCrazy
       Light
       Lightsabers
@@ -245,6 +247,7 @@ test-suite haskell-katas-test
       Codewars.Kata.LostWithoutSpec
       Codewars.Kata.MonkeysSpec
       Codewars.Kata.MultiplyingSpec
+      Codewars.Kata.MultiplySpec
       Codewars.Kata.NegativeSpec
       Codewars.Kata.OppositeSpec
       Codewars.Kata.OppositesSpec
@@ -299,6 +302,7 @@ test-suite haskell-katas-test
       Kata.ArrayPlusArraySpec
       Kata.Contamination1Spec
       Kata.Example.TwistSpec
+      Kata.WhoseMoveSpec
       KataSpec
       LetsGoCrazySpec
       LightsabersSpec
