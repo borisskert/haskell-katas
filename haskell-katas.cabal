@@ -123,6 +123,7 @@ library
       Kata.Contamination1
       Kata.Example.Twist
       Kata.WhoseMove
+      LazyNext
       LetsGoCrazy
       Light
       Lightsabers
@@ -304,6 +305,7 @@ test-suite haskell-katas-test
       Kata.Example.TwistSpec
       Kata.WhoseMoveSpec
       KataSpec
+      LazyNextSpec
       LetsGoCrazySpec
       LightsabersSpec
       LightSpec
