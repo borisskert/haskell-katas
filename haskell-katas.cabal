@@ -136,6 +136,7 @@ library
       Lightsabers
       Litres
       LochNessMonster
+      MakeLower
       MakeUpper
       MessiGoals
       Mixed
@@ -326,6 +327,7 @@ test-suite haskell-katas-test
       LightSpec
       LitresSpec
       LochNessMonsterSpec
+      MakeLowerSpec
       MakeUpperSpec
       MessiGoalsSpec
       MixedSpec
