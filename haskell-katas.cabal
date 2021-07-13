@@ -59,6 +59,7 @@ library
       Codewars.Kata.Decimals
       Codewars.Kata.Derivative
       Codewars.Kata.FakeBinary
+      Codewars.Kata.Grade
       Codewars.Kata.HelloWorld
       Codewars.Kata.IsUpperCase
       Codewars.Kata.Jenny
@@ -243,6 +244,7 @@ test-suite haskell-katas-test
       Codewars.Kata.DecimalsSpec
       Codewars.Kata.DerivativeSpec
       Codewars.Kata.FakeBinarySpec
+      Codewars.Kata.GradeSpec
       Codewars.Kata.HelloWorldSpec
       Codewars.Kata.IsUpperCaseSpec
       Codewars.Kata.JennySpec
