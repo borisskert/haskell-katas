@@ -86,6 +86,7 @@ library
       Codewars.Strings
       Codewars.Strings.DoubleChar
       CoefficientsOfTheQuadraticEquation
+      CountCubes
       CountPositivesSumNegatives
       CountSheep
       Dalmatians
@@ -268,6 +269,7 @@ test-suite haskell-katas-test
       Codewars.Strings.DoubleCharSpec
       Codewars.StringsSpec
       CoefficientsOfTheQuadraticEquationSpec
+      CountCubesSpec
       CountPositivesSumNegativesSpec
       CountSheepSpec
       DalmatiansSpec
