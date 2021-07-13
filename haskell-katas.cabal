@@ -74,6 +74,7 @@ library
       Codewars.Kata.Opposites
       Codewars.Kata.Paperwork
       Codewars.Kata.Reverse
+      Codewars.Kata.RPG
       Codewars.Kata.Sheep
       Codewars.Kata.Shortcut
       Codewars.Kata.Smash
@@ -262,6 +263,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositesSpec
       Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.ReverseSpec
+      Codewars.Kata.RPGSpec
       Codewars.Kata.SheepSpec
       Codewars.Kata.ShortcutSpec
       Codewars.Kata.SmashSpec
