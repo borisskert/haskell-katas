@@ -57,6 +57,7 @@ library
       Codewars.Kata.Convert
       Codewars.Kata.Count
       Codewars.Kata.Cuboids
+      Codewars.Kata.Decibel
       Codewars.Kata.Decimals
       Codewars.Kata.Derivative
       Codewars.Kata.FakeBinary
@@ -246,6 +247,7 @@ test-suite haskell-katas-test
       Codewars.Kata.ConvertSpec
       Codewars.Kata.CountSpec
       Codewars.Kata.Cuboids.TestSpec
+      Codewars.Kata.DecibelSpec
       Codewars.Kata.DecimalsSpec
       Codewars.Kata.DerivativeSpec
       Codewars.Kata.FakeBinarySpec
