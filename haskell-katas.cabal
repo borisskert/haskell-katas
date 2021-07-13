@@ -82,6 +82,7 @@ library
       Codewars.Kata.Shortcut
       Codewars.Kata.Smash
       Codewars.Kata.Supersize
+      Codewars.Kata.Vowel
       Codewars.Kata.Watermelon
       Codewars.Kata.Xor
       Codewars.MichM.SimpleMultiplication
@@ -275,6 +276,7 @@ test-suite haskell-katas-test
       Codewars.Kata.ShortcutSpec
       Codewars.Kata.SmashSpec
       Codewars.Kata.SupersizeSpec
+      Codewars.Kata.VowelSpec
       Codewars.Kata.WatermelonSpec
       Codewars.Kata.XorSpec
       Codewars.MichM.SimpleMultiplicationSpec
