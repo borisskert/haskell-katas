@@ -131,6 +131,7 @@ library
       IsDivisible
       IsOpposite
       Its.Timmys.Fault.Again
+      Kata
       Kata.ArrayPlusArray
       Kata.Contamination1
       Kata.Example.Twist
@@ -330,6 +331,7 @@ test-suite haskell-katas-test
       Kata.Contamination1Spec
       Kata.Example.TwistSpec
       Kata.WhoseMoveSpec
+      KataSpec
       LazyNextSpec
       LetsGoCrazySpec
       LightsabersSpec
