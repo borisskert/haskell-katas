@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (isOpposite)
+module IsOppositeSpec where
+import IsOpposite (isOpposite)
 import Test.Hspec
 
 spec :: Spec

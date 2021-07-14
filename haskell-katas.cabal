@@ -129,8 +129,8 @@ library
       Initials
       Invert
       IsDivisible
+      IsOpposite
       Its.Timmys.Fault.Again
-      Kata
       Kata.ArrayPlusArray
       Kata.Contamination1
       Kata.Example.Twist
@@ -324,12 +324,12 @@ test-suite haskell-katas-test
       InitialsSpec
       InvertSpec
       IsDivisibleSpec
+      IsOppositeSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
       Kata.Contamination1Spec
       Kata.Example.TwistSpec
       Kata.WhoseMoveSpec
-      KataSpec
       LazyNextSpec
       LetsGoCrazySpec
       LightsabersSpec
