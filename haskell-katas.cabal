@@ -130,6 +130,7 @@ library
       Initials
       Invert
       IsDivisible
+      Isogram
       IsOpposite
       Its.Timmys.Fault.Again
       Kata
@@ -328,6 +329,7 @@ test-suite haskell-katas-test
       InitialsSpec
       InvertSpec
       IsDivisibleSpec
+      IsogramSpec
       IsOppositeSpec
       Its.Timmys.Fault.AgainSpec
       Kata.ArrayPlusArraySpec
