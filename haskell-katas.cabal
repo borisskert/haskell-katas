@@ -99,6 +99,7 @@ library
       CountPositivesSumNegatives
       CountSheep
       Dalmatians
+      DescendingOrder
       Diff
       Disemvowel
       Divisible
@@ -296,6 +297,7 @@ test-suite haskell-katas-test
       CountPositivesSumNegativesSpec
       CountSheepSpec
       DalmatiansSpec
+      DescendingOrderSpec
       DiffSpec
       DisemvowelSpec
       DivisibleBySpec
