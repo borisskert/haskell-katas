@@ -178,6 +178,7 @@ library
       SleighAuthentication
       Solution
       SquareArea
+      SquareDigit
       SquareSum
       Stringify
       StringRepeat
@@ -374,6 +375,7 @@ test-suite haskell-katas-test
       SleighAuthenticationSpec
       SolutionSpec
       SquareAreaSpec
+      SquareDigitSpec
       SquareSumSpec
       StringifySpec
       StringRepeatSpec
