@@ -87,6 +87,7 @@ library
       Codewars.Kata.Supersize
       Codewars.Kata.Vowel
       Codewars.Kata.Watermelon
+      Codewars.Kata.XO
       Codewars.Kata.Xor
       Codewars.MichM.SimpleMultiplication
       Codewars.NameCombiner
@@ -291,6 +292,7 @@ test-suite haskell-katas-test
       Codewars.Kata.VowelSpec
       Codewars.Kata.WatermelonSpec
       Codewars.Kata.XorSpec
+      Codewars.Kata.XOSpec
       Codewars.MichM.SimpleMultiplicationSpec
       Codewars.NameCombinerSpec
       Codewars.RockPaperScissorsSpec
