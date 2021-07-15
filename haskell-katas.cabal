@@ -61,6 +61,8 @@ library
       Codewars.Kata.Decibel
       Codewars.Kata.Decimals
       Codewars.Kata.Derivative
+      Codewars.Kata.DNA
+      Codewars.Kata.DNA.Types
       Codewars.Kata.FakeBinary
       Codewars.Kata.Grade
       Codewars.Kata.HelloValidator
@@ -264,6 +266,7 @@ test-suite haskell-katas-test
       Codewars.Kata.DecibelSpec
       Codewars.Kata.DecimalsSpec
       Codewars.Kata.DerivativeSpec
+      Codewars.Kata.DNASpec
       Codewars.Kata.FakeBinarySpec
       Codewars.Kata.GradeSpec
       Codewars.Kata.HelloValidatorSpec
