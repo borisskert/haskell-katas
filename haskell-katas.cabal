@@ -134,6 +134,7 @@ library
       Isogram
       IsOpposite
       Its.Timmys.Fault.Again
+      JadenCasing
       Kata
       Kata.ArrayPlusArray
       Kata.Contamination1
@@ -334,6 +335,7 @@ test-suite haskell-katas-test
       IsogramSpec
       IsOppositeSpec
       Its.Timmys.Fault.AgainSpec
+      JadenCasingSpec
       Kata.ArrayPlusArraySpec
       Kata.Contamination1Spec
       Kata.Example.TwistSpec
