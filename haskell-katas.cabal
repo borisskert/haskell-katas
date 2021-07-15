@@ -116,6 +116,7 @@ library
       FirstNonConsecutive
       GameMove
       GetNumberFromString
+      GetSum
       GetVolumeOfCuboid
       GooseFilter
       GradeBook
@@ -319,6 +320,7 @@ test-suite haskell-katas-test
       FirstNonConsecutiveSpec
       GameMoveSpec
       GetNumberFromStringSpec
+      GetSumSpec
       GetVolumeOfCuboidSpec
       GooseFilterSpec
       GradeBookSpec
