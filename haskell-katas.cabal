@@ -117,6 +117,7 @@ library
       Expression
       FindShortest
       FirstNonConsecutive
+      FriendOrFoe
       GameMove
       GetNumberFromString
       GetSum
@@ -325,6 +326,7 @@ test-suite haskell-katas-test
       ExpressionSpec
       FindShortestSpec
       FirstNonConsecutiveSpec
+      FriendOrFoeSpec
       GameMoveSpec
       GetNumberFromStringSpec
       GetSumSpec
