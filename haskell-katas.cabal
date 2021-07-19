@@ -58,6 +58,8 @@ library
       Codewars.IsThisMyTail
       Codewars.Kata.AlternatingCase
       Codewars.Kata.Basic
+      Codewars.Kata.Categorize
+      Codewars.Kata.Categorize.Types
       Codewars.Kata.Convert
       Codewars.Kata.Count
       Codewars.Kata.Cuboids
@@ -270,6 +272,7 @@ test-suite haskell-katas-test
       Codewars.IsThisMyTailSpec
       Codewars.Kata.AlternatingCaseSpec
       Codewars.Kata.BasicSpec
+      Codewars.Kata.CategorizeSpec
       Codewars.Kata.ConvertSpec
       Codewars.Kata.CountSpec
       Codewars.Kata.Cuboids.TestSpec
