@@ -102,6 +102,7 @@ library
       Codewars.Stringifier
       Codewars.Strings
       Codewars.Strings.DoubleChar
+      Codewars.Triangles
       CoefficientsOfTheQuadraticEquation
       CountCubes
       CountPositivesSumNegatives
@@ -313,6 +314,7 @@ test-suite haskell-katas-test
       Codewars.StringifierSpec
       Codewars.Strings.DoubleCharSpec
       Codewars.StringsSpec
+      Codewars.TrianglesSpec
       CoefficientsOfTheQuadraticEquationSpec
       CountCubesSpec
       CountPositivesSumNegativesSpec
