@@ -172,6 +172,7 @@ library
       NumberToString
       OddCounter
       Odds
+      OnesAndZeroes
       Palindroms
       ParseFloat
       Past
@@ -382,6 +383,7 @@ test-suite haskell-katas-test
       NumberToStringSpec
       OddCounterSpec
       OddsSpec
+      OnesAndZeroesSpec
       PalindromsSpec
       ParseFloatSpec
       PastSpec
