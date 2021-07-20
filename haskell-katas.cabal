@@ -86,6 +86,7 @@ library
       Codewars.Kata.Paperwork
       Codewars.Kata.Plural
       Codewars.Kata.Plural.Types
+      Codewars.Kata.RemoveSmallest
       Codewars.Kata.Reverse
       Codewars.Kata.RPG
       Codewars.Kata.Sheep
@@ -303,6 +304,7 @@ test-suite haskell-katas-test
       Codewars.Kata.OppositesSpec
       Codewars.Kata.Paperwork.TestSpec
       Codewars.Kata.PluralSpec
+      Codewars.Kata.RemoveSmallestSpec
       Codewars.Kata.ReverseSpec
       Codewars.Kata.RPGSpec
       Codewars.Kata.SheepSpec
