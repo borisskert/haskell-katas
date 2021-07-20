@@ -191,6 +191,7 @@ library
       RemoveExclamationMarks
       RemoveN
       Replace
+      Reverse
       ReverseRecursively
       ReverseWords
       RevSeq
@@ -406,6 +407,7 @@ test-suite haskell-katas-test
       RemoveSpec
       ReplaceSpec
       ReverseRecursivelySpec
+      ReverseSpec
       ReverseWordsSpec
       RevSeqSpec
       SleighAuthenticationSpec
