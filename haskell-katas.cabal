@@ -152,6 +152,7 @@ library
       Kata.ArrayPlusArray
       Kata.Contamination1
       Kata.Example.Twist
+      Kata.OddOrEven
       Kata.WhoseMove
       LazyNext
       LetsGoCrazy
@@ -366,6 +367,7 @@ test-suite haskell-katas-test
       Kata.ArrayPlusArraySpec
       Kata.Contamination1Spec
       Kata.Example.TwistSpec
+      Kata.OddOrEvenSpec
       Kata.WhoseMoveSpec
       KataSpec
       LazyNextSpec
