@@ -204,6 +204,7 @@ library
       SquareSum
       Stringify
       StringRepeat
+      StringsEndsWith
       StringToArray
       Sum
       SumArray
@@ -421,6 +422,7 @@ test-suite haskell-katas-test
       SquareSumSpec
       StringifySpec
       StringRepeatSpec
+      StringsEndsWithSpec
       StringToArraySpec
       SumArraySpec
       SummationSpec
