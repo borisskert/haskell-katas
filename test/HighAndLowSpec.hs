@@ -1,6 +1,6 @@
-module KataSpec where
+module HighAndLowSpec where
 import Test.Hspec
-import Kata (highAndLow)
+import HighAndLow (highAndLow)
 
 spec :: Spec
 spec = do

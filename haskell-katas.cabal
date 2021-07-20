@@ -138,6 +138,7 @@ library
       Haskell.Codewars.RemoveChar
       Health
       HexToDecimal
+      HighAndLow
       HowGoodAreYou
       HowMuchILoveYou
       HQ9
@@ -149,7 +150,6 @@ library
       IsOpposite
       Its.Timmys.Fault.Again
       JadenCasing
-      Kata
       Kata.ArrayPlusArray
       Kata.Contamination1
       Kata.Example.Twist
@@ -356,6 +356,7 @@ test-suite haskell-katas-test
       Haskell.Codewars.RemoveCharSpec
       HealthSpec
       HexToDecimalSpec
+      HighAndLowSpec
       HowGoodAreYouSpec
       HowMuchILoveYouSpec
       HQ9Spec
@@ -372,7 +373,6 @@ test-suite haskell-katas-test
       Kata.Example.TwistSpec
       Kata.OddOrEvenSpec
       Kata.WhoseMoveSpec
-      KataSpec
       LazyNextSpec
       LetsGoCrazySpec
       LightsabersSpec

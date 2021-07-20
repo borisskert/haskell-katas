@@ -1,4 +1,4 @@
-module Kata (highAndLow) where
+module HighAndLow (highAndLow) where
 
 --  https://www.codewars.com/kata/554b4ac871d6813a03000035/train/haskell
 
