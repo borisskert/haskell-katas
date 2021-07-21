@@ -202,6 +202,7 @@ library
       SquareArea
       SquareDigit
       SquareSum
+      Stray
       Stringify
       StringRepeat
       StringsEndsWith
@@ -420,6 +421,7 @@ test-suite haskell-katas-test
       SquareAreaSpec
       SquareDigitSpec
       SquareSumSpec
+      StraySpec
       StringifySpec
       StringRepeatSpec
       StringsEndsWithSpec
