@@ -51,6 +51,7 @@ library
       Codewars.G964.Accumule
       Codewars.G964.Arge
       Codewars.G964.Barycenter
+      Codewars.G964.Countdig
       Codewars.G964.Longest
       Codewars.G964.NoZeros
       Codewars.G964.Printer
@@ -274,6 +275,7 @@ test-suite haskell-katas-test
       Codewars.G964.AccumuleSpec
       Codewars.G964.ArgeSpec
       Codewars.G964.BarycenterSpec
+      Codewars.G964.CountdigSpec
       Codewars.G964.LongestSpec
       Codewars.G964.NoZerosSpec
       Codewars.G964.PrinterSpec
