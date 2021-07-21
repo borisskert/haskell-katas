@@ -177,6 +177,7 @@ library
       NoSpace
       NthEven
       Numberfy
+      Numbering
       NumberToString
       OddCounter
       Odds
@@ -399,6 +400,7 @@ test-suite haskell-katas-test
       NoSpaceSpec
       NthEvenSpec
       NumberfySpec
+      NumberingSpec
       NumberToStringSpec
       OddCounterSpec
       OddsSpec
