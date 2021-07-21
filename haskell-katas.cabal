@@ -77,6 +77,7 @@ library
       Codewars.Kata.IsUpperCase
       Codewars.Kata.Jenny
       Codewars.Kata.LostWithout
+      Codewars.Kata.MinMax
       Codewars.Kata.Monkeys
       Codewars.Kata.Multiply
       Codewars.Kata.Multiplying
@@ -299,6 +300,7 @@ test-suite haskell-katas-test
       Codewars.Kata.IsUpperCaseSpec
       Codewars.Kata.JennySpec
       Codewars.Kata.LostWithoutSpec
+      Codewars.Kata.MinMaxSpec
       Codewars.Kata.MonkeysSpec
       Codewars.Kata.MultiplyingSpec
       Codewars.Kata.MultiplySpec
