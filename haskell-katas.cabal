@@ -40,6 +40,7 @@ library
       Blue
       BodyMassIndex
       Bonus
+      BreakingChocolate
       Century
       CheckFactor
       Codewars.AlanPartridge.AppleTurnover
@@ -265,6 +266,7 @@ test-suite haskell-katas-test
       BlueSpec
       BodyMassIndexSpec
       BonusSpec
+      BreakingChocolateSpec
       CenturySpec
       CheckFactorSpec
       Codewars.AlanPartridge.AppleTurnoverSpec
