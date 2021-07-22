@@ -123,13 +123,13 @@ library
       Disemvowel
       Divisible
       DivisibleBy
-      Divisors
       DnaToRna
       DoubleInteger
       Dutyfree
       EvenOrOdd
       Expression
       FindShortest
+      FindTheDivisors
       FirstNonConsecutive
       FriendOrFoe
       GameMove
@@ -357,13 +357,13 @@ test-suite haskell-katas-test
       DisemvowelSpec
       DivisibleBySpec
       DivisibleSpec
-      DivisorsSpec
       DnaToRnaSpec
       DoubleIntegerSpec
       DutyfreeSpec
       EvenOrOddSpec
       ExpressionSpec
       FindShortestSpec
+      FindTheDivisorsSpec
       FirstNonConsecutiveSpec
       FriendOrFoeSpec
       GameMoveSpec

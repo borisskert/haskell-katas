@@ -1,5 +1,5 @@
-module DivisorsSpec where
-import Divisors (divisors)
+module FindTheDivisorsSpec where
+import FindTheDivisors (divisors)
 import Test.Hspec
 
 spec :: Spec
