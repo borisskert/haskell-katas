@@ -123,6 +123,7 @@ library
       Disemvowel
       Divisible
       DivisibleBy
+      Divisors
       DnaToRna
       DoubleInteger
       Dutyfree
@@ -357,6 +358,7 @@ test-suite haskell-katas-test
       DisemvowelSpec
       DivisibleBySpec
       DivisibleSpec
+      DivisorsSpec
       DnaToRnaSpec
       DoubleIntegerSpec
       DutyfreeSpec
