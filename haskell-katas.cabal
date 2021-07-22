@@ -218,6 +218,7 @@ library
       SumArray
       Summation
       SumMul
+      SumOfMultiples
       SumStr
       Survive
       TheFeastOfManyBeasts
@@ -443,6 +444,7 @@ test-suite haskell-katas-test
       SumArraySpec
       SummationSpec
       SumMulSpec
+      SumOfMultiplesSpec
       SumSpec
       SumStrSpec
       SurviveSpec
