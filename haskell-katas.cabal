@@ -202,6 +202,7 @@ library
       ReverseRecursively
       ReverseWords
       RevSeq
+      SequenceSum
       SleighAuthentication
       Solution
       SquareArea
@@ -426,6 +427,7 @@ test-suite haskell-katas-test
       ReverseSpec
       ReverseWordsSpec
       RevSeqSpec
+      SequenceSumSpec
       SleighAuthenticationSpec
       SolutionSpec
       SquareAreaSpec
