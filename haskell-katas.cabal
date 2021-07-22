@@ -170,6 +170,7 @@ library
       MakeLower
       MakeUpper
       Maskify
+      MaxMult
       MessiGoals
       Mixed
       MouthSize
@@ -398,6 +399,7 @@ test-suite haskell-katas-test
       MakeLowerSpec
       MakeUpperSpec
       MaskifySpec
+      MaxMultSpec
       MessiGoalsSpec
       MixedSpec
       MouthSizeSpec
