@@ -111,6 +111,7 @@ library
       Codewars.Stringifier
       Codewars.Strings
       Codewars.Strings.DoubleChar
+      Codewars.SumOddNumbers
       Codewars.Triangles
       CoefficientsOfTheQuadraticEquation
       CountCubes
@@ -343,6 +344,7 @@ test-suite haskell-katas-test
       Codewars.StringifierSpec
       Codewars.Strings.DoubleCharSpec
       Codewars.StringsSpec
+      Codewars.SumOddNumbersSpec
       Codewars.TrianglesSpec
       CoefficientsOfTheQuadraticEquationSpec
       CountCubesSpec
