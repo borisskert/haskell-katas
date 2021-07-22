@@ -158,6 +158,7 @@ library
       Kata.Example.Twist
       Kata.OddOrEven
       Kata.WhoseMove
+      LargestDigits
       LazyNext
       LetsGoCrazy
       Light
@@ -381,6 +382,7 @@ test-suite haskell-katas-test
       Kata.Example.TwistSpec
       Kata.OddOrEvenSpec
       Kata.WhoseMoveSpec
+      LargestDigitsSpec
       LazyNextSpec
       LetsGoCrazySpec
       LightsabersSpec
