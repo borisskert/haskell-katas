@@ -85,6 +85,7 @@ library
       Codewars.Kata.Multiply
       Codewars.Kata.Multiplying
       Codewars.Kata.Negative
+      Codewars.Kata.Next5
       Codewars.Kata.NthSeries
       Codewars.Kata.Opposite
       Codewars.Kata.Opposites
@@ -318,6 +319,7 @@ test-suite haskell-katas-test
       Codewars.Kata.MultiplyingSpec
       Codewars.Kata.MultiplySpec
       Codewars.Kata.NegativeSpec
+      Codewars.Kata.Next5Spec
       Codewars.Kata.NthSeriesSpec
       Codewars.Kata.OppositeSpec
       Codewars.Kata.OppositesSpec
