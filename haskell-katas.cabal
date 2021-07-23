@@ -46,6 +46,7 @@ library
       CheckFactor
       Codewars.AlanPartridge.AppleTurnover
       Codewars.AlarmUtils
+      Codewars.Anagram
       Codewars.Arrays
       Codewars.AverageCalculator
       Codewars.Cockroach
@@ -288,6 +289,7 @@ test-suite haskell-katas-test
       CheckFactorSpec
       Codewars.AlanPartridge.AppleTurnoverSpec
       Codewars.AlarmUtilsSpec
+      Codewars.AnagramSpec
       Codewars.ArraysSpec
       Codewars.AverageCalculatorSpec
       Codewars.CockroachSpec
