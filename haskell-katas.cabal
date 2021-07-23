@@ -179,6 +179,7 @@ library
       Maskify
       MaxMult
       MessiGoals
+      Min
       Mixed
       MouthSize
       MultipleOfIdx
@@ -416,6 +417,7 @@ test-suite haskell-katas-test
       MaskifySpec
       MaxMultSpec
       MessiGoalsSpec
+      MinSpec
       MixedSpec
       MouthSizeSpec
       MultipleOfIdxSpec
