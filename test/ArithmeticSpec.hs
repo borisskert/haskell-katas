@@ -1,7 +1,7 @@
-module KataSpec where
+module ArithmeticSpec where
 import Test.Hspec
 import Test.QuickCheck
-import Kata
+import Arithmetic
 
 spec :: Spec
 spec = do

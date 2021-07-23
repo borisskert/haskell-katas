@@ -1,4 +1,4 @@
-module Kata where
+module Arithmetic where
 
 --  https://www.codewars.com/kata/583f158ea20cfcbeb400000a/train/haskell
 
