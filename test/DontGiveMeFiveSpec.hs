@@ -1,6 +1,6 @@
-module KataSpec where
+module DontGiveMeFiveSpec where
 import Test.Hspec
-import Kata (dontGiveMeFive)
+import DontGiveMeFive (dontGiveMeFive)
 
 
 spec :: Spec
