@@ -2,9 +2,9 @@ name:                haskell-katas
 version:             0.1.0.0
 github:              "borisskert/haskell-katas"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "Author email here"
-copyright:           "2019 Author name here"
+author:              "Boris Skert"
+maintainer:          "boris.skert@gmail.com"
+copyright:           "2021 Boris Skert"
 
 extra-source-files:
 - README.md
