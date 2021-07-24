@@ -1,5 +1,5 @@
-module KataSpec (spec, main) where
-import Kata
+module CapitalizeSpec (spec, main) where
+import Capitalize
 import Test.Hspec
 
 main = hspec spec
