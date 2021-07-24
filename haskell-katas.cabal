@@ -193,6 +193,7 @@ library
       NthEven
       Numberfy
       Numbering
+      NumbersInOrder
       NumberToString
       OddCounter
       Odds
@@ -435,6 +436,7 @@ test-suite haskell-katas-test
       NthEvenSpec
       NumberfySpec
       NumberingSpec
+      NumbersInOrderSpec
       NumberToStringSpec
       OddCounterSpec
       OddsSpec
