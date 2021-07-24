@@ -207,6 +207,7 @@ library
       Remove
       RemoveButLast
       RemoveDuplicates
+      RemoveDuplicateWords
       RemoveEnd
       RemoveExclamationMarks
       RemoveN
@@ -446,6 +447,7 @@ test-suite haskell-katas-test
       PriceOfMangoSpec
       RemoveButLastSpec
       RemoveDuplicatesSpec
+      RemoveDuplicateWordsSpec
       RemoveEndSpec
       RemoveExclamationMarksSpec
       RemoveNSpec
