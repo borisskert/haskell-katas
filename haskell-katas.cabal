@@ -57,6 +57,7 @@ library
       Codewars.G964.Countdig
       Codewars.G964.Longest
       Codewars.G964.Maxdifflength
+      Codewars.G964.Maxrot
       Codewars.G964.NoZeros
       Codewars.G964.Opstrings1
       Codewars.G964.Printer
@@ -305,6 +306,7 @@ test-suite haskell-katas-test
       Codewars.G964.CountdigSpec
       Codewars.G964.LongestSpec
       Codewars.G964.MaxdifflengthSpec
+      Codewars.G964.MaxrotSpec
       Codewars.G964.NoZerosSpec
       Codewars.G964.Opstrings1Spec
       Codewars.G964.PrinterSpec
