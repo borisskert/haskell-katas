@@ -77,6 +77,7 @@ library
       Codewars.Kata.Derivative
       Codewars.Kata.DNA
       Codewars.Kata.DNA.Types
+      Codewars.Kata.Evaporator
       Codewars.Kata.FakeBinary
       Codewars.Kata.Grade
       Codewars.Kata.HelloValidator
@@ -324,6 +325,7 @@ test-suite haskell-katas-test
       Codewars.Kata.DecimalsSpec
       Codewars.Kata.DerivativeSpec
       Codewars.Kata.DNASpec
+      Codewars.Kata.EvaporatorSpec
       Codewars.Kata.FakeBinarySpec
       Codewars.Kata.GradeSpec
       Codewars.Kata.HelloValidatorSpec
@@ -501,7 +503,8 @@ test-suite haskell-katas-test
       test
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      QuickCheck ==2.14.2
+      HUnit ==1.6.2.0
+    , QuickCheck ==2.14.2
     , base >=4.7 && <5
     , haskell-katas
     , hspec ==2.7.10
