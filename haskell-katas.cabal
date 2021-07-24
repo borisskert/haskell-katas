@@ -136,6 +136,7 @@ library
       FindShortest
       FindTheDivisors
       FirstNonConsecutive
+      FixString
       FriendOrFoe
       GameMove
       GetNumberFromString
@@ -377,6 +378,7 @@ test-suite haskell-katas-test
       FindShortestSpec
       FindTheDivisorsSpec
       FirstNonConsecutiveSpec
+      FixStringSpec
       FriendOrFoeSpec
       GameMoveSpec
       GetNumberFromStringSpec
