@@ -1,6 +1,6 @@
-module KataSpec where
+module SmallEnoughSpec where
 import Test.Hspec
-import Kata
+import SmallEnough
 
 spec :: Spec
 spec = do
