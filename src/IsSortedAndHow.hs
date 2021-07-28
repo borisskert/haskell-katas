@@ -1,4 +1,4 @@
-module Kata where
+module IsSortedAndHow where
 
 --  https://www.codewars.com/kata/580a4734d6df748060000045/train/haskell
 

@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (isSortedAndHow)
+module IsSortedAndHowSpec where
+import IsSortedAndHow (isSortedAndHow)
 import Test.Hspec
 
 spec :: Spec
