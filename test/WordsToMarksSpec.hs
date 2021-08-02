@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module WordsToMarksSpec (spec) where
 
 import Test.Hspec
-import Kata (wordsToMarks)
+import WordsToMarks (wordsToMarks)
 
 spec :: Spec
 spec = do
