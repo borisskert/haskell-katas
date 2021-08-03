@@ -1,6 +1,6 @@
-module KataSpec where
+module RepeaterSpec where
 
-import Kata (repeater)
+import Repeater (repeater)
 import Test.Hspec
 
 spec :: Spec
