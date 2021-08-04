@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module AveragesSpec (spec) where
 import Test.Hspec
-import Kata (averages)
+import Averages (averages)
 
 main = hspec spec
 spec = do

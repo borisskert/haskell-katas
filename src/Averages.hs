@@ -1,4 +1,4 @@
-module Kata where
+module Averages where
 
 -- https://www.codewars.com/kata/57d2807295497e652b000139/train/haskell
 
