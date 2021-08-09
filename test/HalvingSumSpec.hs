@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module HalvingSumSpec (spec) where
 
 import Test.Hspec
-import Kata (halvingSum)
+import HalvingSum (halvingSum)
 
 spec :: Spec
 spec = do
