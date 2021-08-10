@@ -1,10 +1,12 @@
-module StringifySpec where
+module StringifySpec (spec) where
+
 import Stringify
-import Test.QuickCheck
 import Test.Hspec
 
-spec :: Spec
+main = hspec spec
 spec = do
-  describe "Testing:" $ do
-    it "Example tests" $ do
-      numberToString (67) `shouldBe` "67"
+  describe "Linked list conversion" $ do
+    it "works for sample lists" $ do
+      stringify [] `shouldBe` "null"
+      stringify [1,2,3] `shouldBe` "1 -> 2 -> 3 -> null"
+      stringify [0,1,4,9,16] `shouldBe` "0 -> 1 -> 4 -> 9 -> 16 -> null"
