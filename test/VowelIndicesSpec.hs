@@ -13,3 +13,5 @@ spec :: Spec
 spec = do
     describe "vowelIndices" $ do
       testVowelIndices "super" [2,4]
+      testVowelIndices "crIssUm" [3,6]
+      testVowelIndices "bialy" [2,3,5]

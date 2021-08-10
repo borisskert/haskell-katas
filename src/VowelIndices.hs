@@ -22,4 +22,4 @@ toIndex (index, _) = index
 
 
 vowels :: [Char]
-vowels = ['a', 'e', 'i', 'o', 'u']
+vowels = ['a', 'e', 'i', 'o', 'u', 'y', 'A', 'E', 'I', 'O', 'U', 'Y']
