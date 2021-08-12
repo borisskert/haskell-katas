@@ -1,4 +1,4 @@
-module Kata where
+module OrderedCount where
 
 -- https://www.codewars.com/kata/57a6633153ba33189e000074/train/haskell
 

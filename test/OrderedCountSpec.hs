@@ -1,6 +1,6 @@
-module KataSpec where
+module OrderedCountSpec where
 import Test.Hspec
-import Kata
+import OrderedCount ( orderedCount )
 
 spec :: Spec
 spec = do
