@@ -15,4 +15,3 @@ spec = do
     describe "potatoes" $ do
         dotest 82 127 80 114
         dotest 93 129 91 100
-        dotest 99 207 2 69
