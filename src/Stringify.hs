@@ -7,7 +7,7 @@ stringify [] = "null"
 stringify xs = join " -> " (map show xs) ++ " -> null"
 
 
--- Data.Text (intercalate)
+-- Data.List (intercalate)
 join :: String -> [String] -> String
 join _ [] = ""
 join _ [x] = x
