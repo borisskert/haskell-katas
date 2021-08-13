@@ -1,4 +1,4 @@
-module Kata where
+module Capitalize2 where
 
 -- https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/haskell
 

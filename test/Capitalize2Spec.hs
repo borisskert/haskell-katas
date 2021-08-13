@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata
+module Capitalize2Spec where
+import Capitalize2
 import Test.Hspec
 
 spec :: Spec
