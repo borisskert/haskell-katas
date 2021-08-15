@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module LetterAsterisksSpec (spec) where
 
-import Kata (solve)
+import LetterAsterisks (solve)
 import Test.Hspec
 
 spec :: Spec
