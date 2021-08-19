@@ -1,6 +1,6 @@
-module KataSpec where
+module CountRedBeadsSpec where
 import Test.Hspec
-import Kata (countRedBeads)
+import CountRedBeads (countRedBeads)
 
 spec :: Spec
 spec = do
