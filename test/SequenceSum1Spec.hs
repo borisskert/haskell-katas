@@ -1,6 +1,6 @@
-module SequenceSumSpec where
+module SequenceSum1Spec where
 import Test.Hspec
-import SequenceSum
+import SequenceSum1
 
 spec :: Spec
 spec = do
