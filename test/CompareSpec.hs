@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module CompareSpec (spec) where
 import Test.Hspec
-import Kata
+import Compare ( compare' )
 
 main = hspec spec
 spec = do

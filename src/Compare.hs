@@ -1,4 +1,4 @@
-module Kata where
+module Compare where
 
 -- https://www.codewars.com/kata/576bb3c4b1abc497ec000065/train/haskell
 
