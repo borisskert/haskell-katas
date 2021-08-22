@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata
+module CountVowelsSpec where
+import CountVowels
 import Test.Hspec
 
 spec :: Spec
