@@ -1,7 +1,7 @@
-module SwitcherooSpec where
+module Switcheroo1Spec where
 
 import Test.Hspec
-import Switcheroo
+import Switcheroo1
 
 -- `spec` of type `Spec` must exist
 spec :: Spec
