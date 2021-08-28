@@ -1,8 +1,8 @@
-module KataSpec where
+module CalcSpec where
 
 import Test.Hspec
 import Test.QuickCheck
-import Kata
+import Calc
 
 spec :: Spec
 spec = do
