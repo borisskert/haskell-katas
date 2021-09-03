@@ -1,6 +1,6 @@
-module KataSpec where
+module FizzBuzzCuckooClockSpec where
 import Test.Hspec
-import Kata
+import FizzBuzzCuckooClock
 
 
 spec :: Spec
