@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module WomensAgeSpec (spec) where
 
 import Test.Hspec
-import Kata (womensAge)
+import WomensAge (womensAge)
 
 spec :: Spec
 spec = do
