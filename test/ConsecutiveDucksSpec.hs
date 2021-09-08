@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module ConsecutiveDucksSpec (spec) where
 
 import Test.Hspec
-import Kata (consecutiveDucks)
+import ConsecutiveDucks (consecutiveDucks)
 
 spec :: Spec
 spec = do
