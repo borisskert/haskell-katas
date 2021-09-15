@@ -1,6 +1,6 @@
-module KataSpec where
+module NumbersWithDigitInsideSpec where
 import Test.Hspec
-import Kata (numbersWithDigitInside)
+import NumbersWithDigitInside (numbersWithDigitInside)
 
 spec :: Spec
 spec = do
