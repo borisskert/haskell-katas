@@ -1,4 +1,4 @@
-module Kata where
+module Burner where
 
 -- https://www.codewars.com/kata/5fde1ea66ba4060008ea5bd9/train/haskell
 

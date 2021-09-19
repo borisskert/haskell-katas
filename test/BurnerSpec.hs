@@ -1,7 +1,7 @@
-module KataSpec where
+module BurnerSpec where
 
 import Test.Hspec
-import Kata (burner)
+import Burner (burner)
 
 spec :: Spec
 spec = do
