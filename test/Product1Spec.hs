@@ -1,6 +1,6 @@
-module ProductSpec where
+module Product1Spec where
 import Test.Hspec
-import Product (product')
+import Product1 (product')
 
 spec :: Spec
 spec = do

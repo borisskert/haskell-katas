@@ -1,4 +1,4 @@
-module Product (product') where
+module Product1 (product') where
 
 -- https://www.codewars.com/kata/57fb142297e0860073000064/train/haskell
 
