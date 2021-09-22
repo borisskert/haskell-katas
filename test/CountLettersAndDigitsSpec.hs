@@ -1,6 +1,6 @@
-module KataSpec where
+module CountLettersAndDigitsSpec where
 import Test.Hspec
-import Kata
+import CountLettersAndDigits ( countLettersAndDigits )
 
 spec :: Spec
 spec = do

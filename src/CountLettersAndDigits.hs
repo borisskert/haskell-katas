@@ -1,4 +1,4 @@
-module Kata where
+module CountLettersAndDigits where
 
 -- https://www.codewars.com/kata/5738f5ea9545204cec000155/train/haskell
 
