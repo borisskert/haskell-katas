@@ -1,5 +1,5 @@
-module ReverseSpec where
-import Reverse (reverseWords)
+module Reverse1Spec where
+import Reverse1 (reverseWords)
 import Test.Hspec
 
 spec :: Spec
