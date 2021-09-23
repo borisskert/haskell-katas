@@ -1,8 +1,8 @@
-module ProductSpec where
+module Product2Spec where
 
 import Test.Hspec
 import Test.QuickCheck
-import Product
+import Product2
 
 spec :: Spec
 spec = do
