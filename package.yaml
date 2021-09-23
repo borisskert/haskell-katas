@@ -21,7 +21,6 @@ description:         Please see the README on GitHub at <https://github.com/bori
 dependencies:
 - base >= 4.7 && < 5
 - split == 0.2.3.4
-- vector >= 0.12.3.0
 
 library:
   source-dirs: src
