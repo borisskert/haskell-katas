@@ -1,4 +1,4 @@
-module Kata (explode) where
+module Explode (explode) where
 
 -- https://www.codewars.com/kata/585b1fafe08bae9988000314/train/haskell
 

@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (explode)
+module ExplodeSpec where
+import Explode (explode)
 import Test.Hspec
 
 
