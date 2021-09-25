@@ -1,6 +1,6 @@
-module RemoveSpec where
+module Remove2Spec where
 import Test.Hspec
-import Remove (remove)
+import Remove2 (remove)
 
 spec :: Spec
 spec = do
