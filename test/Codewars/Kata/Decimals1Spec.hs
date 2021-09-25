@@ -1,5 +1,5 @@
-module Codewars.Kata.DecimalsSpec where
-import Codewars.Kata.Decimals (twoDecimalPlaces)
+module Codewars.Kata.Decimals1Spec where
+import Codewars.Kata.Decimals1 (twoDecimalPlaces)
 import Test.Hspec
 import Test.QuickCheck
 
