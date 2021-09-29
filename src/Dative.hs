@@ -1,4 +1,4 @@
-module Kata where
+module Dative where
 
 dative :: String -> String
 dative word = word ++ suffix

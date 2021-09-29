@@ -1,6 +1,6 @@
-module KataSpec where
-import Test.Hspec
-import Kata
+module DativeSpec where
+import Test.Hspec ( shouldBe, it, describe )
+import Dative ( dative )
 
 spec = do
   describe "Example Tests" $
