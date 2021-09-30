@@ -1,4 +1,4 @@
-module Kata (mean) where
+module Mean (mean) where
 
 -- https://www.codewars.com/kata/56f7493f5d7c12d1690000b6/train/haskell
 

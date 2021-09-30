@@ -1,5 +1,5 @@
-module KataSpec (spec, main) where
-import Kata (mean)
+module MeanSpec (spec, main) where
+import Mean (mean)
 import Test.Hspec
 
 main = hspec spec
