@@ -1,6 +1,6 @@
-module Codewars.ArraysSpec where
+module Codewars.Arrays1Spec where
 
-import Codewars.Arrays (positiveSum)
+import Codewars.Arrays1 (positiveSum)
 import Test.Hspec
 
 spec :: Spec
