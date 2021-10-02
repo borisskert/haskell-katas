@@ -1,7 +1,7 @@
-module OfficeSpec where
+module Office1Spec where
 
 import Test.Hspec
-import Office
+import Office1
 
 spec :: Spec
 spec = do

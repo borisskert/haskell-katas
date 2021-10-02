@@ -1,4 +1,4 @@
-module Office where
+module Office1 where
 
 -- https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1/train/haskell
 
