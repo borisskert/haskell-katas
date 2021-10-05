@@ -1,4 +1,4 @@
-module Kata (longest) where
+module Longest (longest) where
 
 -- https://www.codewars.com/kata/58670300f04e7449290000e5/train/haskell
 

@@ -1,6 +1,6 @@
-module KataSpec where
+module LongestSpec where
 
-import Kata (longest)
+import Longest (longest)
 import Test.Hspec
 
 spec :: Spec
