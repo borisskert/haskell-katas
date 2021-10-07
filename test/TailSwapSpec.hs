@@ -1,6 +1,6 @@
-module KataSpec where
+module TailSwapSpec where
 import Test.Hspec
-import Kata (tailSwap)
+import TailSwap (tailSwap)
 
 spec :: Spec
 spec = do

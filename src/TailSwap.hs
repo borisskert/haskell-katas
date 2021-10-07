@@ -1,4 +1,4 @@
-module Kata (tailSwap) where
+module TailSwap (tailSwap) where
 
 -- https://www.codewars.com/kata/5868812b15f0057e05000001/train/haskell
 
