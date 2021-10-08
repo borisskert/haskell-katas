@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module CreateArrayOfTiersSpec (spec) where
 
 import Test.Hspec
-import Kata (createArrayOfTiers)
+import CreateArrayOfTiers (createArrayOfTiers)
 
 spec :: Spec
 spec = do

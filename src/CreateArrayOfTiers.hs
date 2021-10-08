@@ -1,4 +1,4 @@
-module Kata where
+module CreateArrayOfTiers where
 
 import Data.Char (digitToInt)
 
