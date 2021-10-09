@@ -1,6 +1,6 @@
-module KataSpec where
+module RakeGardenSpec where
 import Test.Hspec
-import Kata (rakeGarden)
+import RakeGarden (rakeGarden)
 
 spec :: Spec
 spec = do
