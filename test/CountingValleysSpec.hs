@@ -1,0 +1,12 @@
+module CountingValleysSpec (spec) where
+
+import CountingValleys (valleys)
+import Test.Hspec
+
+spec :: Spec
+spec = do
+  it "example tests" $ do
+    valleys "FUFFDDFDUDFUFUF" `shouldBe` 1
+    valleys "UFFDDFDUDFUFUUFFDDFDUDFUFUUFFDDFDUDFUFUUFFDDFDUDFUFUUFFDDFDUDFUFUUFFDDFDUDFUFU" `shouldBe` 6
+    valleys "UUFFFUFFFUUDUUUDUFUUFDDUFUUDUUDUDFDFUDFUDDDUFUUFFFUDFUUUUUDFDDDDDUDDDUDFFFF" `shouldBe` 0
+    valleys "DFDUFFDDFUFUDFDUDFUDUUFUUFFUUDUUFFDUDUFDFFDDFDDDFUUDDDFUD" `shouldBe` 2
