@@ -1,5 +1,5 @@
-module AverageSpec (spec, main) where
-import Average
+module Average1Spec (spec, main) where
+import Average1
 import Test.Hspec
 import Test.QuickCheck
 
