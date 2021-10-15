@@ -1,4 +1,4 @@
-module Codewars.Puzzles where
+module Codewars.Puzzles1 where
 
 -- https://www.codewars.com/kata/56d931ecc443d475d5000003/train/haskell
 

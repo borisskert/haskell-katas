@@ -1,6 +1,6 @@
-module Codewars.PuzzlesSpec where
+module Codewars.Puzzles1Spec where
 
-import Codewars.Puzzles (testit)
+import Codewars.Puzzles1 (testit)
 import Test.Hspec
 
 spec :: Spec
