@@ -23,6 +23,7 @@ dependencies:
 - split == 0.2.3.4
 - regex-posix == 0.96.*
 - time == 1.9.*
+- integer-logarithms == 1.0.3.*
 
 library:
   source-dirs: src
