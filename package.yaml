@@ -24,6 +24,7 @@ dependencies:
 - regex-posix == 0.96.*
 - time == 1.9.*
 - integer-logarithms == 1.0.3.*
+- text == 1.2.4.*
 
 library:
   source-dirs: src
