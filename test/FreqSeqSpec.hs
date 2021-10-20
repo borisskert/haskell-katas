@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (freqSeq)
+module FreqSeqSpec where
+import FreqSeq (freqSeq)
 import Test.Hspec
 
 spec :: Spec
