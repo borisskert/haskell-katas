@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (generateIntegers)
+module GenerateIntegersSpec where
+import GenerateIntegers (generateIntegers)
 import Test.Hspec
 
 spec :: Spec
