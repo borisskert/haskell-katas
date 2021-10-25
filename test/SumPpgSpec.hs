@@ -1,6 +1,6 @@
-module KataSpec (spec, main) where
+module SumPpgSpec (spec, main) where
 
-import Kata (sumPpg, Player(..))
+import SumPpg (sumPpg, Player(..))
 import Test.Hspec
 
 main :: IO ()
