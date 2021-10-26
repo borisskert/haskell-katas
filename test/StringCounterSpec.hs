@@ -1,6 +1,6 @@
-module KataSpec where
+module StringCounterSpec where
 import Test.Hspec
-import Kata (stringCounter)
+import StringCounter (stringCounter)
 
 spec :: Spec
 spec = do
