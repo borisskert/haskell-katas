@@ -1,4 +1,4 @@
-module Kata where
+module Reflections where
 
 -- https://www.codewars.com/kata/5eaf88f92b679f001423cc66/train/haskell
 

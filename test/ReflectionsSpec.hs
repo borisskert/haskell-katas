@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module ReflectionsSpec (spec) where
 
 import Test.Hspec
-import Kata (reflections)
+import Reflections (reflections)
 
 spec :: Spec
 spec = do
