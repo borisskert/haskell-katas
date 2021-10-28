@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (generatePairs)
+module GeneratePairsSpec where
+import GeneratePairs (generatePairs)
 import Test.Hspec
 
 spec :: Spec

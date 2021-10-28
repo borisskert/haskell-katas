@@ -1,4 +1,4 @@
-module Kata (generatePairs) where
+module GeneratePairs (generatePairs) where
 
 -- https://www.codewars.com/kata/588e27b7d1140d31cb000060/train/haskell
 
