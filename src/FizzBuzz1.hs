@@ -1,4 +1,4 @@
-module FizzBuzz(fizzbuzz) where
+module FizzBuzz1(fizzbuzz) where
 
 -- https://www.codewars.com/kata/5300901726d12b80e8000498/train/haskell
 

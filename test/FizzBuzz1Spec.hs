@@ -1,5 +1,5 @@
-module FizzBuzzSpec where
-import FizzBuzz(fizzbuzz)
+module FizzBuzz1Spec where
+import FizzBuzz1(fizzbuzz)
 import Test.Hspec
 
 spec :: Spec
