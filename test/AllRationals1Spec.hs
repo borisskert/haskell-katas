@@ -1,6 +1,6 @@
-module AllRationalsSpec (spec) where
+module AllRationals1Spec (spec) where
 
-import AllRationals (allRationals)
+import AllRationals1 (allRationals)
 import Test.Hspec
 
 spec :: Spec
