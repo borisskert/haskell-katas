@@ -1,4 +1,4 @@
-module Kata where
+module HighestValue where
 
 -- https://www.codewars.com/kata/5840586b5225616069000001/train/haskell
 

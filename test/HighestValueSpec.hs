@@ -1,7 +1,7 @@
-module KataSpec where
+module HighestValueSpec where
 import Test.Hspec
 import Test.QuickCheck
-import Kata (highestValue)
+import HighestValue (highestValue)
 
 
 spec :: Spec
