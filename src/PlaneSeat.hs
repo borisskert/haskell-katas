@@ -1,4 +1,4 @@
-module Kata (planeSeat) where
+module PlaneSeat (planeSeat) where
 
 -- https://www.codewars.com/kata/57e8f757085f7c7d6300009a/train/haskell
 

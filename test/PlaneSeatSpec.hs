@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module PlaneSeatSpec (spec) where
 
 import Test.Hspec
-import Kata (planeSeat)
+import PlaneSeat (planeSeat)
 
 spec :: Spec
 spec = do
