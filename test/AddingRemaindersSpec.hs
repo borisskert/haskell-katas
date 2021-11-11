@@ -1,7 +1,7 @@
-module KataSpec where
+module AddingRemaindersSpec where
 
 import Test.Hspec
-import Kata (solve)
+import AddingRemainders (solve)
 
 spec :: Spec
 spec = do
