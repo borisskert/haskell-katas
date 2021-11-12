@@ -41,6 +41,8 @@ tests:
     dependencies:
     - haskell-katas
     - hspec == 2.7.10
+    - hspec-core == 2.7.10
     - QuickCheck == 2.14.2
     - HUnit == 1.6.2.0
     - haskell-src-exts == 1.23.*
+    - async == 2.2.*
