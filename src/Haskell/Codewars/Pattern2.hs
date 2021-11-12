@@ -1,4 +1,4 @@
-module Haskell.Codewars.Pattern where
+module Haskell.Codewars.Pattern2 where
 
 -- https://www.codewars.com/kata/55736129f78b30311300010f/train/haskell
 
