@@ -1,8 +1,8 @@
-module StackedBalls3DSpec (spec) where
+module StackedBalls3D1Spec (spec) where
 
 import Test.Hspec
 -- import StackedBalls3D.Preloaded (shouldBeFuzzy)
-import StackedBalls3D (stack)
+import StackedBalls3D1 (stack)
 import Control.Monad (when)
 
 spec :: Spec

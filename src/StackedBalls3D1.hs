@@ -1,4 +1,4 @@
-module StackedBalls3D (stack) where
+module StackedBalls3D1 (stack) where
 
 -- https://www.codewars.com/kata/5bb493932ce53339dc0000c2/train/haskell
 
