@@ -1,6 +1,6 @@
-module KataSpec where
+module AreaCodeSpec where
 
-import Kata (areaCode)
+import AreaCode (areaCode)
 import Test.Hspec
 
 spec :: Spec

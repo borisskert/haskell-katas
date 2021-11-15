@@ -1,4 +1,4 @@
-module Kata (areaCode) where
+module AreaCode (areaCode) where
 
 -- https://www.codewars.com/kata/585a36b445376cbc22000072/train/haskell
 
