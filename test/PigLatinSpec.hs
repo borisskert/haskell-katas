@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (pigLatin)
+module PigLatinSpec where
+import PigLatin (pigLatin)
 import Test.Hspec
 import Test.QuickCheck
 
