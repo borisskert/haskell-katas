@@ -1,6 +1,6 @@
-module KataSpec where
+module LowestTempSpec where
 import Test.Hspec
-import Kata(lowestTemp)
+import LowestTemp(lowestTemp)
 
 
 spec :: Spec

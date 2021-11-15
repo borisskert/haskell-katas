@@ -1,4 +1,4 @@
-module Kata (lowestTemp) where
+module LowestTemp (lowestTemp) where
 
 -- https://www.codewars.com/kata/588e0f11b7b4a5b373000041/train/haskell
 
