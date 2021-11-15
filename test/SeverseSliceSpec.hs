@@ -1,6 +1,6 @@
-module KataSpec where
+module SeverseSliceSpec where
 import Test.Hspec
-import Kata (reverseSlice)
+import SeverseSlice (reverseSlice)
 
 spec :: Spec
 spec = do
