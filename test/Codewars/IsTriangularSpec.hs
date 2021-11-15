@@ -1,6 +1,6 @@
-module Codewars.NumbersSpec (spec) where
+module Codewars.IsTriangularSpec (spec) where
 
-import Codewars.Numbers
+import Codewars.IsTriangular
 import Test.Hspec
 import Test.QuickCheck
 

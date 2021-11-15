@@ -1,4 +1,4 @@
-module Codewars.Numbers where
+module Codewars.IsTriangular where
 
 -- https://www.codewars.com/kata/56d0a591c6c8b466ca00118b/train/haskell
 
