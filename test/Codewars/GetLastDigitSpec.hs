@@ -1,6 +1,6 @@
-module Codewars.NumbersSpec where
+module Codewars.GetLastDigitSpec where
 
-import Codewars.Numbers (getLastDigit)
+import Codewars.GetLastDigit (getLastDigit)
 import Test.Hspec
 
 spec :: Spec
