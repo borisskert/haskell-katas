@@ -1,4 +1,4 @@
-module Multiples where
+module Multiples1 where
 
 -- https://www.codewars.com/kata/593c9175933500f33400003e/train/haskell
 

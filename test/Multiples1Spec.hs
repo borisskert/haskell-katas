@@ -1,7 +1,7 @@
-module MultiplesSpec (spec) where
+module Multiples1Spec (spec) where
 
 import Test.Hspec
-import Multiples (multiples)
+import Multiples1 (multiples)
 
 spec :: Spec
 spec = do
