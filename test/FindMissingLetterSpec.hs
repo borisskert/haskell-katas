@@ -1,6 +1,6 @@
-module KataSpec where
+module FindMissingLetterSpec where
 import Test.Hspec
-import Kata
+import FindMissingLetter
 
 spec :: Spec
 spec = do
