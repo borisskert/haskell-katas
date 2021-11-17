@@ -1,4 +1,4 @@
-module Kata (celsiusToRomer) where
+module CelsiusToRomer (celsiusToRomer) where
 
 -- https://www.codewars.com/kata/5862eeeae20244d5eb000005/train/haskell
 

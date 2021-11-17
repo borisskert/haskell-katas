@@ -1,7 +1,7 @@
-module KataSpec where
+module CelsiusToRomerSpec where
 
 import Test.Hspec
-import Kata (celsiusToRomer)
+import CelsiusToRomer (celsiusToRomer)
 
 spec :: Spec
 spec = do
