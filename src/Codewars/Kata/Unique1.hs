@@ -1,4 +1,4 @@
-module Codewars.Kata.Unique where
+module Codewars.Kata.Unique1 where
 
 -- https://www.codewars.com/kata/553e8b195b853c6db4000048/train/haskell
 

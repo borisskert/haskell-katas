@@ -1,5 +1,5 @@
-module Codewars.Kata.UniqueSpec (spec, main) where
-import Codewars.Kata.Unique (hasUniqueChar)
+module Codewars.Kata.Unique1Spec (spec, main) where
+import Codewars.Kata.Unique1 (hasUniqueChar)
 import Test.Hspec
 import Test.QuickCheck
 
