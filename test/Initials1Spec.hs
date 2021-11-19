@@ -1,7 +1,7 @@
-module InitialsSpec where
+module Initials1Spec where
 
 import Test.Hspec
-import Initials
+import Initials1
 import Test.QuickCheck
 
 import Data.Char (toUpper,isAscii,isUpper)

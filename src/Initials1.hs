@@ -1,4 +1,4 @@
-module Initials where
+module Initials1 where
 
 -- https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/haskell
 
