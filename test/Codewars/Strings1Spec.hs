@@ -1,6 +1,6 @@
-module Codewars.StringsSpec where
+module Codewars.Strings1Spec where
 
-import Codewars.Strings (lowercaseCount)
+import Codewars.Strings1 (lowercaseCount)
 import Test.Hspec
 import Test.QuickCheck
 
