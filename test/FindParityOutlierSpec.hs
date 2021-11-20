@@ -1,6 +1,6 @@
 module FindParityOutlierSpec (spec) where
 
-import Kata (findOutlier)
+import FindOutlier (findOutlier)
 import Test.Hspec
 
 spec :: Spec

@@ -1,4 +1,4 @@
-module Kata (findOutlier) where
+module FindOutlier (findOutlier) where
 
 -- https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/haskell
 
