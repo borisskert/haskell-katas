@@ -1,6 +1,6 @@
-module KataSpec where
+module SeaSickSpec where
 import Test.Hspec
-import Kata (seaSick)
+import SeaSick (seaSick)
 
 spec :: Spec
 spec = do
