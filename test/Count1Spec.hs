@@ -1,7 +1,7 @@
-module CountSpec where
+module Count1Spec where
 
 import Test.Hspec
-import Count
+import Count1
 
 i1 = [1, 1, 2 ,3 ,1 ,2 ,3 ,4]
 d1 = [1, 3]
