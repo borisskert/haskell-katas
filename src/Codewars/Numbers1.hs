@@ -1,4 +1,4 @@
-module Codewars.Numbers where
+module Codewars.Numbers1 where
 
 -- https://www.codewars.com/kata/56a75b91688b49ad94000015/train/haskell
 

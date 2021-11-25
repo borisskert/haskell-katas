@@ -1,6 +1,6 @@
-module Codewars.NumbersSpec where
+module Codewars.Numbers1Spec where
 
-import Codewars.Numbers (abundantNumber)
+import Codewars.Numbers1 (abundantNumber)
 import Test.Hspec
 
 spec :: Spec
