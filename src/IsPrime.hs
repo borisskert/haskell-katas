@@ -9,26 +9,19 @@ isPrime n
   | n < 0 = False
   | otherwise = all (\x -> n `mod` x /= 0) [root, (root - 1) .. 2]
   where
-    root = integerSqrt n
+    root = integerRoot 2 n
 
-integerSqrt :: Integer -> Integer
-integerSqrt 0 = 0
-integerSqrt n = search initialGuess
+integerRoot :: Integer -> Integer -> Integer
+integerRoot n base
+  | d < e = d
+  | otherwise = e
   where
-    initialGuess = (toInteger 2 ^) . (`div` 2) . log2 $ n :: Integer
+    n1 = n - 1
+    (d, e) = search 1 ((n1 + base) `div` n)
 
-    search :: Integer -> Integer
-    search root
-      | isRoot root = root
-      | otherwise = search ((root + n `div` root) `div` 2)
+    search :: Integer -> Integer -> (Integer, Integer)
+    search c d
+      | c /= d && c /= e = search d e
+      | otherwise = (d, e)
       where
-        isRoot :: Integer -> Bool
-        isRoot x = x * x <= n && (x + 1) * (x + 1) > n
-
-    log2 :: Integer -> Integer
-    log2 x = count x 0
-      where
-        count :: Integer -> Integer -> Integer
-        count x size
-          | x <= 0 = size
-          | otherwise = count (x `div` 2) (size + 1)
+        e = (n1 * d + (base `div` d ^ n1)) `div` n
