@@ -1,4 +1,4 @@
-module Cake where
+module Cake1 where
 
 -- https://www.codewars.com/kata/5805ed25c2799821cb000005/train/haskell
 

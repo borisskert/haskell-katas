@@ -1,7 +1,7 @@
-module CakeSpec where
+module Cake1Spec where
 
 import Test.Hspec
-import Cake
+import Cake1
 
 
 import Test.HUnit (assertEqual)
