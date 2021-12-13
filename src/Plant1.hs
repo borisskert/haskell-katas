@@ -1,4 +1,4 @@
-module Plant where
+module Plant1 where
 
 -- https://www.codewars.com/kata/58941fec8afa3618c9000184/train/haskell
 

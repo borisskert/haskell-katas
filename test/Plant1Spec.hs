@@ -1,7 +1,7 @@
-module PlantSpec where
+module Plant1Spec where
 
 import Test.Hspec
-import Plant
+import Plant1
 
 -- `spec` of type `Spec` must exist
 spec :: Spec
