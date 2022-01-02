@@ -1,7 +1,7 @@
-module MaxProductSpec where
+module MaxProduct1Spec where
 
 import Data.List (sortBy)
-import MaxProduct
+import MaxProduct1
 import Test.Hspec
 
 spec = do

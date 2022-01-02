@@ -1,4 +1,4 @@
-module MaxProduct where
+module MaxProduct1 where
 
 -- https://www.codewars.com/kata/5d0365accfd09600130a00c9/train/haskell
 
