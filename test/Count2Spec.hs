@@ -1,9 +1,9 @@
-module CountSpec where
+module Count2Spec where
 -- Tests can be written using Hspec http://hspec.github.io/
 -- Replace this with your own tests.
 
 import Test.Hspec
-import Count
+import Count2
 
 -- `spec` of type `Spec` must exist
 spec :: Spec

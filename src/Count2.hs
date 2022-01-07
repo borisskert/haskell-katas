@@ -1,4 +1,4 @@
-module Count where
+module Count2 where
 
 -- https://www.codewars.com/kata/557cffec8c3e8e55cc00010f/train/haskell
 
