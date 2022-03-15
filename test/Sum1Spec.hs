@@ -1,5 +1,5 @@
-module SumSpec where
-import qualified Sum
+module Sum1Spec where
+import qualified Sum1 as Sum
 import Test.QuickCheck
 import Test.Hspec
 
