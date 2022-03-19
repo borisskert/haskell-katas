@@ -10,7 +10,8 @@ module Test.Hspec.Codewars (
   solutionShouldHide,
   solutionShouldHideAll,
   shouldBeApproxPrec,
-  shouldBeApprox
+  shouldBeApprox,
+  moduleShouldHideAll
 ) where
 
 import Data.List (intercalate)
@@ -89,17 +90,31 @@ hidden hiddens = do
   let message = "Import declarations must hide " ++ show hiddens
   assertBool message $ null failures
   
+hidden2 :: [Hidden] -> String -> Expectation
+hidden2 hiddens filename = do
+  sol <- Q.parseFile filename >>= ripParseOk >>= getImports
+  let imports = treatPrelude $ map declToDesc sol
+  let failures = [(desc, hide) | desc <- imports, hide <- hiddens, exposed desc hide]
+  let message = "Import declarations must hide " ++ show hiddens
+  assertBool message $ null failures
+  
 -- | Check that solution hides a module or a symbol from a module.
 --
 -- > solutionShouldHide $ FromModule "Prelude" "head"
 solutionShouldHide :: Hidden -> Expectation
 solutionShouldHide = hidden . pure
 
+moduleShouldHide :: Hidden -> String -> Expectation
+moduleShouldHide = hidden2 . pure
+
 -- | Check that solution hides all of given modules and symbols.
 --
 -- > solutionShouldHideAll [FromModule "Prelude" "head", Module "Data.Set"]
 solutionShouldHideAll :: [Hidden] -> Expectation
 solutionShouldHideAll = hidden
+
+moduleShouldHideAll :: [Hidden] -> String -> Expectation
+moduleShouldHideAll = hidden2
 
 -- | Create approximately equal expectation with margin.
 --
