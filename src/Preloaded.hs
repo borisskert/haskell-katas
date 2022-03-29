@@ -8,3 +8,5 @@ data Shape
 data RPSLS = Rock | Paper | Scissors | Lizard | Spock deriving (Show,Eq)
 
 data Parity = EITHER | EVEN | ODD deriving (Show,Eq)
+
+data Suit = White | Yellow | Green | Blue | Red deriving (Eq)
