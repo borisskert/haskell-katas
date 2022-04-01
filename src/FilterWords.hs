@@ -1,4 +1,4 @@
-module Kata (filterWords) where
+module FilterWords (filterWords) where
 
 -- https://www.codewars.com/kata/587a75dbcaf9670c32000292/train/haskell
 

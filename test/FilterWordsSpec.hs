@@ -1,6 +1,6 @@
-module KataSpec where
+module FilterWordsSpec where
 import Test.Hspec
-import Kata (filterWords)
+import FilterWords (filterWords)
 
 spec :: Spec
 spec = do
