@@ -1,7 +1,7 @@
-module ExampleSpec where
+module SayHelloSpec where
 
 import Test.Hspec
-import Kata (sayHello)
+import SayHello (sayHello)
 
 spec :: Spec
 spec = do
