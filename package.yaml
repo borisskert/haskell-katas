@@ -24,8 +24,8 @@ dependencies:
 - regex-posix == 0.96.*
 - time == 1.9.*
 - integer-logarithms == 1.0.3.*
-- text == 1.2.4.*
-- containers == 0.6.5.*
+- text == 1.2.5.*
+- containers == 0.6.4.*
 
 library:
   source-dirs: src
@@ -40,8 +40,8 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - haskell-katas
-    - hspec == 2.7.10
-    - hspec-core == 2.7.10
+    - hspec == 2.8.*
+    - hspec-core == 2.8.*
     - QuickCheck == 2.14.2
     - HUnit == 1.6.2.0
     - haskell-src-exts == 1.23.*
