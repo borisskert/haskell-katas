@@ -1,7 +1,7 @@
-module ExampleSpec where
+module SquareSpec where
 
 import Test.Hspec
-import Kata (square)
+import Square (square)
 
 spec :: Spec
 spec = do
