@@ -1,6 +1,6 @@
-module SolutionSpec where
+module ReversedStringsSpec where
 
-import Solution
+import ReversedStrings
 import Test.Hspec
 
 spec :: Spec
