@@ -1,5 +1,5 @@
-module TermSpec where
-import Term
+module NthTermSpec where
+import NthTerm
 import Test.Hspec
 
 spec :: Spec
