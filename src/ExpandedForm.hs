@@ -1,4 +1,4 @@
-module Kata where
+module ExpandedForm where
 
 -- https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/haskell
 

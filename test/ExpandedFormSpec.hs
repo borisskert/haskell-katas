@@ -1,6 +1,6 @@
-module KataSpec where
+module ExpandedFormSpec where
 import Test.Hspec
-import Kata
+import ExpandedForm
 
 spec :: Spec
 spec = do
