@@ -1,7 +1,7 @@
-module KataSpec (spec) where
+module PyramidSpec (spec) where
 
 import Test.Hspec
-import Kata (pyramid)
+import Pyramid (pyramid)
 
 spec :: Spec
 spec = do
