@@ -1,6 +1,6 @@
-module KataSpec where
+module DecipherThisSpec where
 
-import Kata
+import DecipherThis
 import Test.Hspec
 
 spec :: Spec
