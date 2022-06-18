@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (longestRepetition)
+module LongestRepetitionSpec where
+import LongestRepetition (longestRepetition)
 import Test.Hspec
 
 spec :: Spec
