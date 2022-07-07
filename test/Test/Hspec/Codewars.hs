@@ -11,6 +11,7 @@ module Test.Hspec.Codewars (
   solutionShouldHideAll,
   shouldBeApproxPrec,
   shouldBeApprox,
+  moduleShouldHide,
   moduleShouldHideAll
 ) where
 
