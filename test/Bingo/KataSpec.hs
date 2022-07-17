@@ -1,4 +1,4 @@
-module BingoSpec (spec) where
+module Bingo.KataSpec (spec) where
 
 import Bingo.Kata (bingo)
 import Test.Hspec
