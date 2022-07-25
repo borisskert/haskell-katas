@@ -1,7 +1,7 @@
-module KataSpec where
+module BalanceSpec where
 import Prelude hiding (Either(..))
 import Preloaded (Comparison(..))
-import Kata(balance)
+import Balance(balance)
 import Test.Hspec
 
 
