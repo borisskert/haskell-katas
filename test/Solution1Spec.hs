@@ -1,7 +1,7 @@
-module SolutionSpec (spec) where
+module Solution1Spec (spec) where
 
 import Test.Hspec
-import Solution (partsSum)
+import Solution1 (partsSum)
 
 spec :: Spec
 spec = do
