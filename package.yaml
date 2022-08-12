@@ -26,6 +26,7 @@ dependencies:
 - integer-logarithms == 1.0.3.*
 - text == 1.2.4.*
 - containers == 0.6.5.*
+- array == 0.5.4.*
 
 library:
   source-dirs: src
