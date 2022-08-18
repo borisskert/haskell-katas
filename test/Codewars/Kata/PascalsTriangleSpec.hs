@@ -1,4 +1,4 @@
-module PascalsTriangleSpec where
+module Codewars.Kata.PascalsTriangleSpec where
 import Codewars.Kata.PascalsTriangle (pascalsTriangle)
 import Test.Hspec 
 import Test.QuickCheck
