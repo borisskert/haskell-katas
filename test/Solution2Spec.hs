@@ -1,7 +1,7 @@
-module SolutionSpec (spec) where
+module Solution2Spec (spec) where
 
 import Test.Hspec
-import Solution (oddRow)
+import Solution2 (oddRow)
 
 spec :: Spec
 spec = do
