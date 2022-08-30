@@ -1,6 +1,6 @@
 module RemoveWordsSpec (spec) where
 
-import Kata (remove)
+import Remove5 (remove)
 import Test.Hspec
 
 spec :: Spec

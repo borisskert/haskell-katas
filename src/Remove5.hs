@@ -1,4 +1,4 @@
-module Kata (remove) where
+module Remove5 (remove) where
 
 --  https://www.codewars.com/kata/57fafb6d2b5314c839000195/train/haskell
 
