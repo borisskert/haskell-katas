@@ -1,6 +1,6 @@
-module KataSpec where
+module Twisted37Spec where
 
-import Kata
+import Twisted37
 import Test.Hspec
 
 spec :: Spec

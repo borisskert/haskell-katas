@@ -1,4 +1,4 @@
-module Kata where
+module Twisted37 where
 
 --  https://www.codewars.com/kata/58068479c27998b11900056e/train/haskell
 
