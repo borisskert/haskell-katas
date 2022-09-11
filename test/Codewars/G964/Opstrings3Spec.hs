@@ -1,5 +1,5 @@
-module Codewars.G964.Opstrings1Spec where
-import Codewars.G964.Opstrings1
+module Codewars.G964.Opstrings3Spec where
+import Codewars.G964.Opstrings3
 
 import Test.Hspec
 import Test.QuickCheck

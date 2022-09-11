@@ -1,4 +1,4 @@
-module Codewars.G964.Opstrings1 where
+module Codewars.G964.Opstrings3 where
 
 -- https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/haskell
 
