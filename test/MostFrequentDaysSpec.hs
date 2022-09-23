@@ -1,8 +1,8 @@
-module KataSpec where
+module MostFrequentDaysSpec where
 
 import Test.Hspec
 import Test.QuickCheck
-import Kata (mostFrequentDays)
+import MostFrequentDays (mostFrequentDays)
 
 spec :: Spec
 spec = do
