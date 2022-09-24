@@ -1,7 +1,7 @@
-module HammingSpec (spec) where
+module Hamming1Spec (spec) where
 
 import           Control.Monad
-import           Hamming       (decode, encode)
+import           Hamming1       (decode, encode)
 import           Test.Hspec
 
 fixedEncode :: [([Char], [Char])]
