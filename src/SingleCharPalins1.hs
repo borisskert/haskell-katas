@@ -1,4 +1,4 @@
-module SingleCharPalins where
+module SingleCharPalins1 where
 
 -- https://www.codewars.com/kata/5a66ea69e6be38219f000110/train/haskell
 

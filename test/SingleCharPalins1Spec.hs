@@ -1,5 +1,5 @@
-module SingleCharPalinsSpec where
-import SingleCharPalins
+module SingleCharPalins1Spec where
+import SingleCharPalins1
 import Test.Hspec
 
 spec :: Spec
