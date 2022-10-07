@@ -1,6 +1,6 @@
-module MirrorSpec (spec) where
+module Mirror1Spec (spec) where
 
-import Mirror (mirror)
+import Mirror1 (mirror)
 import Test.Hspec
 
 spec :: Spec
