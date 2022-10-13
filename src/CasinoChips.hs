@@ -1,4 +1,4 @@
-module Kata (solve) where
+module CasinoChips (solve) where
 
 --  https://www.codewars.com/kata/5e0b72d2d772160011133654/train/haskell
 

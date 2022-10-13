@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module CasinoChipsSpec (spec) where
 
-import Kata (solve)
+import CasinoChips (solve)
 import Test.Hspec
 
 spec :: Spec
