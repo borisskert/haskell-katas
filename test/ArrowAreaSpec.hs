@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module ArrowAreaSpec (spec) where
 
-import Kata (arrowArea)
+import ArrowArea (arrowArea)
 import Test.Hspec
 import Test.QuickCheck
 
