@@ -1,8 +1,8 @@
-module KataSpec (spec) where
+module MinimumPerimeterSpec (spec) where
 
 import Test.Hspec
 import Test.QuickCheck
-import Kata (minimumPerimeter)
+import MinimumPerimeter (minimumPerimeter)
 
 spec :: Spec
 spec = do

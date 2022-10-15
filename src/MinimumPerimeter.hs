@@ -1,4 +1,4 @@
-module Kata (minimumPerimeter) where
+module MinimumPerimeter (minimumPerimeter) where
 
 --  https://www.codewars.com/kata/5826f54cc60c7e5266000baf/train/haskell
 
