@@ -1,4 +1,4 @@
-module Codewars.G964.Opstrings1 (rot90Clock, diag1Sym, selfieAndDiag1, oper) where
+module Codewars.G964.Opstrings4 (rot90Clock, diag1Sym, selfieAndDiag1, oper) where
 
 -- https://www.codewars.com/kata/56dbeec613c2f63be4000be6/train/haskell
 

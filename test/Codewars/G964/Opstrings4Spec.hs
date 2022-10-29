@@ -1,6 +1,6 @@
-module Codewars.G964.Opstrings1Spec where
+module Codewars.G964.Opstrings4Spec where
 
-import Codewars.G964.Opstrings1
+import Codewars.G964.Opstrings4
 import Test.Hspec
 import Test.QuickCheck
 import Text.Printf (printf)
