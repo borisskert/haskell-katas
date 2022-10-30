@@ -1,4 +1,4 @@
-module Kata (racePodium) where
+module RacePodium (racePodium) where
 
 --  https://www.codewars.com/kata/62cecd4e5487c10028996e04/train/haskell
 

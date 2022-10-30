@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module RacePodiumSpec (spec) where
 
-import Kata (racePodium)
+import RacePodium (racePodium)
 import Test.Hspec
 import Test.QuickCheck
 
