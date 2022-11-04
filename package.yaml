@@ -28,6 +28,7 @@ dependencies:
 - containers == 0.6.5.*
 - array == 0.5.4.*
 - filepath == 1.4.2.*
+- random == 1.2.0.*
 
 library:
   source-dirs: src
