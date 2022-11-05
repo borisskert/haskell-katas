@@ -1,6 +1,6 @@
-module KataSpec where
+module IsOddHeavySpec where
 
-import Kata
+import IsOddHeavy
 import Test.Hspec
 
 spec :: Spec

@@ -1,4 +1,4 @@
-module Kata where
+module IsOddHeavy where
 
 --  https://www.codewars.com/kata/59c7e477dcc40500f50005c7/train/haskell
 
