@@ -1,5 +1,5 @@
-module FibonacciSpec where
-import Fibonacci
+module Fibonacci1Spec where
+import Fibonacci1
 import Test.Hspec
 import Test.QuickCheck
 
