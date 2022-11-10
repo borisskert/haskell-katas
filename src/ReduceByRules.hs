@@ -1,4 +1,4 @@
-module Kata (reduceByRules) where
+module ReduceByRules (reduceByRules) where
 
 --  https://www.codewars.com/kata/585ba6dff59b3cef3f000132/train/haskell
 

@@ -1,6 +1,6 @@
-module KataSpec where
+module ReduceByRulesSpec where
 
-import Kata (reduceByRules)
+import ReduceByRules (reduceByRules)
 import Test.Hspec
 
 spec :: Spec
