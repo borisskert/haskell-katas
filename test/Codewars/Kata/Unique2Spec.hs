@@ -1,5 +1,5 @@
-module Codewars.Kata.UniqueSpec where
-import Codewars.Kata.Unique (projectPartners)
+module Codewars.Kata.Unique2Spec where
+import Codewars.Kata.Unique2 (projectPartners)
 import Test.Hspec
 import Test.QuickCheck
 
