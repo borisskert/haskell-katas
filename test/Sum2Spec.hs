@@ -1,6 +1,6 @@
-module SumSpec where
+module Sum2Spec where
 
-import Sum
+import Sum2
 import Test.Hspec
 
 spec :: Spec

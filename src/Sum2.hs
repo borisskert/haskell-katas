@@ -1,4 +1,4 @@
-module Sum where
+module Sum2 where
 
 -- https://www.codewars.com/kata/584a6d9d7d22f8fa09000094/train/haskell
 
