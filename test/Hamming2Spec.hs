@@ -1,6 +1,6 @@
-module HammingSpec where
+module Hamming2Spec where
 
-import Hamming
+import Hamming2
 import Test.Hspec
 import Test.QuickCheck
 
