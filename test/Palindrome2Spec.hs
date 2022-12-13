@@ -1,7 +1,7 @@
-module PalindromeSpec where
+module Palindrome2Spec where
 
 import Test.Hspec
-import Palindrome
+import Palindrome2
 
 spec :: Spec
 spec = do
