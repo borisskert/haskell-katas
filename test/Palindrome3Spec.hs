@@ -1,6 +1,6 @@
-module PalindromeSpec where
+module Palindrome3Spec where
 
-import Palindrome
+import Palindrome3
 import Test.Hspec
 
 spec :: Spec
