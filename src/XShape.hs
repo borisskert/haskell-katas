@@ -1,4 +1,4 @@
-module Kata (x) where
+module XShape (x) where
 
 --  https://www.codewars.com/kata/5906436806d25f846400009b/train/haskell
 

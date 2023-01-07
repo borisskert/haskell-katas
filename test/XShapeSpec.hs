@@ -1,8 +1,8 @@
-module KataSpec (spec) where
+module XShapeSpec (spec) where
 
 import Test.Hspec
 import Test.QuickCheck
-import Kata (x)
+import XShape (x)
 
 spec :: Spec
 spec = do
