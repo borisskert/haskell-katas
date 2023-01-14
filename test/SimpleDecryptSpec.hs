@@ -1,6 +1,6 @@
-module KataSpec where
+module SimpleDecryptSpec where
 
-import Kata (decrypt)
+import SimpleDecrypt (decrypt)
 import Test.Hspec
 
 spec :: Spec

@@ -1,4 +1,4 @@
-module Kata (decrypt) where
+module SimpleDecrypt (decrypt) where
 
 -- https://www.codewars.com/kata/58693136b98de0e4910001ab/train/haskell
 
