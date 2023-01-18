@@ -1,6 +1,6 @@
-module CardGameSpec (spec) where
+module CardGame1Spec (spec) where
 
-import CardGame (solution)
+import CardGame1 (solution)
 import Test.Hspec
 
 spec :: Spec

@@ -1,4 +1,4 @@
-module CardGame (solution) where
+module CardGame1 (solution) where
 
 -- https://www.codewars.com/kata/633874ed198a4c00286aa39d/train/haskell
 
