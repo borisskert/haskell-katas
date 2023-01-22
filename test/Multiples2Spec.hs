@@ -1,6 +1,6 @@
-module MultiplesSpec where
+module Multiples2Spec where
 
-import Multiples
+import Multiples2
 import Test.Hspec
 
 spec :: Spec
