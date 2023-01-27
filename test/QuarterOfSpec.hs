@@ -1,8 +1,8 @@
-module KataSpec (spec) where
+module QuarterOfSpec (spec) where
 
 import Test.Hspec
 import Test.QuickCheck
-import Kata (quarterOf)
+import QuarterOf (quarterOf)
 
 spec :: Spec
 spec = do
