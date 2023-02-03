@@ -1,4 +1,4 @@
-module Kata (ascendDescend) where
+module AscendDescend (ascendDescend) where
 
 -- https://www.codewars.com/kata/62ca07aaedc75c88fb95ee2f/train/haskell
 

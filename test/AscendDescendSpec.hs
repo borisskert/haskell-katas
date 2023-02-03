@@ -1,6 +1,6 @@
-module KataSpec (spec) where
+module AscendDescendSpec (spec) where
 
-import Kata (ascendDescend)
+import AscendDescend (ascendDescend)
 import Test.Hspec
 import Test.QuickCheck
 
