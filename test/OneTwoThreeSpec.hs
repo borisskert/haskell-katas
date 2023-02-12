@@ -1,5 +1,5 @@
-module KataSpec (spec, main) where
-import Kata (oneTwoThree)
+module OneTwoThreeSpec (spec, main) where
+import OneTwoThree (oneTwoThree)
 import Test.Hspec
 
 main :: IO ()

@@ -1,4 +1,4 @@
-module Kata (oneTwoThree) where
+module OneTwoThree (oneTwoThree) where
 
 -- https://www.codewars.com/kata/5873b2010565844b9100026d/train/haskell
 
