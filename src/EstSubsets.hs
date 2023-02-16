@@ -1,4 +1,4 @@
-module Kata (estSubsets) where
+module EstSubsets (estSubsets) where
 
 -- https://www.codewars.com/kata/584703d76f6cf6ffc6000275/train/haskell
 

@@ -1,6 +1,6 @@
-module KataSpec where
+module EstSubsetsSpec where
 import Test.Hspec
-import Kata (estSubsets)
+import EstSubsets (estSubsets)
 
 spec :: Spec
 spec = do
