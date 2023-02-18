@@ -1,4 +1,4 @@
-module Palindrome (palindrome) where
+module Palindrome4 (palindrome) where
 
 --  https://www.codewars.com/kata/58df8b4d010a9456140000c7/train/haskell
 

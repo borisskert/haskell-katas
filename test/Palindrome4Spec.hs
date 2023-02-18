@@ -1,6 +1,6 @@
-module PalindromeSpec where
+module Palindrome4Spec where
 
-import Palindrome
+import Palindrome4
 import Test.Hspec
 import Test.QuickCheck
 
