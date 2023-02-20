@@ -1,7 +1,7 @@
-module TriangleSpec (spec) where
+module Triangle1Spec (spec) where
 
 import Test.Hspec
-import Triangle
+import Triangle1
 
 spec :: Spec
 spec = do
