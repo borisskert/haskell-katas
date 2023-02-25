@@ -27,3 +27,5 @@ isWaveSorted xs
   | otherwise = all (\(a : b : c : _) -> a <= b && b >= c) divvinger
   where
     divvinger = divvy 3 2 xs
+
+data Tree = Node { val :: Int, left, right :: Maybe Tree }
