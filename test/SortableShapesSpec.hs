@@ -1,5 +1,5 @@
-module KataSpec where
-import Kata (Shape (..))
+module SortableShapesSpec where
+import SortableShapes (Shape (..))
 import Data.List (sort)
 import Test.QuickCheck
 import Test.Hspec

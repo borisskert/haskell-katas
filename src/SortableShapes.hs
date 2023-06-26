@@ -1,6 +1,6 @@
 {-# LANGUAGE InstanceSigs #-}
 
-module Kata (Shape (..)) where
+module SortableShapes (Shape (..)) where
 
 -- https://www.codewars.com/kata/586669a8442e3fc307000048/train/haskell
 
