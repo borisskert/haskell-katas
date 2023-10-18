@@ -5,4 +5,4 @@ module Codewars.Kata.Alternate where
 import Data.List (transpose)
 
 combine :: [[a]] -> [a]
-combine = concat . transpose
+combine =  concat . transpose

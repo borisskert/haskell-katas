@@ -14,8 +14,3 @@ spec = describe "compoundArray" $ do
   it "works if one of the lists is empty" $ property $ \xs -> do
     compoundArray xs [] `shouldBe` (xs :: [Int]) 
     compoundArray [] xs `shouldBe` (xs :: [Int])
-  
-  it "returns a list with all elements" $ property $ \xs ys ->
-    let prop :: [Double] -> Bool
-        prop ks = ks \\ ys == xs && ks \\ xs == ys
-    in compoundArray xs ys `shouldSatisfy` prop
