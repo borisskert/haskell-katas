@@ -1,5 +1,5 @@
-module NoSpaceSpec where
-import NoSpace (noSpace)
+module NoSpace1Spec where
+import NoSpace1 (noSpace)
 import Test.Hspec
 
 spec :: Spec
