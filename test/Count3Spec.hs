@@ -1,6 +1,6 @@
-module CountSpec (spec) where
+module Count3Spec (spec) where
 
-import Count (countChar)
+import Count3 (countChar)
 import Test.Hspec
 
 spec :: Spec
