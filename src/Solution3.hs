@@ -1,4 +1,4 @@
-module Solution where
+module Solution3 where
 
 --  https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309/train/haskell
 

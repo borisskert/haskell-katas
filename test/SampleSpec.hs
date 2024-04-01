@@ -1,6 +1,6 @@
 module SampleSpec where
 
-import Solution
+import Solution3
 import Test.Hspec (Spec, describe, it, shouldBe)
 import Prelude (Bool (..), ($), (&&))
 
