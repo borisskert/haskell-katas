@@ -1,4 +1,4 @@
-module Kata (pyramidHeight) where
+module PyramidHeight (pyramidHeight) where
 
 -- https://www.codewars.com/kata/56968ce7753513604b000055/train/haskell
 

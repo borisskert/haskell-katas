@@ -1,8 +1,8 @@
-module KataSpec (spec) where
+module PyramidHeightSpec (spec) where
 
 import Test.Hspec
 import Test.QuickCheck
-import Kata (pyramidHeight)
+import PyramidHeight (pyramidHeight)
 
 spec :: Spec
 spec = do
