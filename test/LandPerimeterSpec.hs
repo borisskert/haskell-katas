@@ -1,6 +1,6 @@
-module KataSpec where
+module LandPerimeterSpec where
 
-import Kata (landPerimeter)
+import LandPerimeter (landPerimeter)
 import Test.Hspec
 
 spec :: Spec
