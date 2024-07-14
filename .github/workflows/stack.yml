@@ -10,20 +10,20 @@ on:
 jobs:
   build:
     name: Run stack
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Setup Haskell environment
-        uses: haskell/actions/setup@v1
+        uses: haskell-actions/setup@v2
         with:
-          ghc-version: '9.4.7'
-          cabal-version: '3.8.1.0'
+          ghc-version: '9.4.8'
+          cabal-version: '3.10.3.0'
           enable-stack: true
-          stack-version: '2.9.3'
+          stack-version: '2.15.5'
 
       - name: Setup stack cache
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: |
             ~/.stack
