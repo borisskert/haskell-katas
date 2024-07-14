@@ -5,6 +5,7 @@ import qualified Data.Map.Strict as M
 import qualified Data.Vector as V
 import Haskell.SylarDoom.Smallfuck
 import Test.Hspec
+import Haskell.SylarDoom.Smallfuck (jumpBackward)
 
 spec :: Spec
 spec = do
@@ -34,3 +35,37 @@ spec = do
         "*[>*]"
         "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
         `shouldBe` "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+      interpreter "[[]*>*>*>]" "000" `shouldBe` "000"
+
+  -- describe "Parse" $ do
+  --   it "should read simple commands" $ do
+  --     parse "*" `shouldBe` [Code '*']
+  --     parse ">" `shouldBe` [Code '>']
+  --     parse "<" `shouldBe` [Code '<']
+  --     parse "[]" `shouldBe` [Block []]
+  --   it "should read nested commands" $ do
+  --     parse "[*]" `shouldBe` [Block [Code '*']]
+  --     parse "[>]" `shouldBe` [Block [Code '>']]
+  --     parse "[<]" `shouldBe` [Block [Code '<']]
+  --     parse "[[]]" `shouldBe` [Block [Block []]]
+  --   it "should read multiple commands" $ do
+  --     parse "*>" `shouldBe` [Code '*', Code '>']
+  --     parse "*>*" `shouldBe` [Code '*', Code '>', Code '*']
+  --     parse "*>*>*" `shouldBe` [Code '*', Code '>', Code '*', Code '>', Code '*']
+  --     parse "*>*>*>*" `shouldBe` [Code '*', Code '>', Code '*', Code '>', Code '*', Code '>', Code '*']
+  --   it "should read nested commands with multiple commands" $ do
+  --     parse "[*>]" `shouldBe` [Block [Code '*', Code '>']]
+  --     parse "[*>*]" `shouldBe` [Block [Code '*', Code '>', Code '*']]
+  --     parse "[*>*>*]" `shouldBe` [Block [Code '*', Code '>', Code '*', Code '>', Code '*']]
+  --     parse "[*>*>*>*]" `shouldBe` [Block [Code '*', Code '>', Code '*', Code '>', Code '*', Code '>', Code '*']]
+
+  describe "readOne and unreadOne" $ do
+    it "should unreadOne" $ do
+      unreadOne ("ab", "cde") `shouldBe` ("a", "bcde")
+      unreadOne ("a", "bcde") `shouldBe` ("", "abcde")
+
+  describe "jumpBackward and jumpForward" $ do
+    it "should jumpBackward" $ do
+      jumpBackward ("[abc", "]d") `shouldBe` ("", "[abc]d")
+    it "should jumpForward" $ do
+      jumpForward ("", "[abc]d") `shouldBe` ("[abc", "]d")
