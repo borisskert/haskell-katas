@@ -6,3 +6,4 @@ out/
 dist-newstyle/
 *.cabal
 .#*
+.DS_Store
