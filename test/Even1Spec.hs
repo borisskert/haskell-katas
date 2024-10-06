@@ -1,5 +1,5 @@
-module EvenSpec where
-import Even
+module Even1Spec where
+import Even1
 import Test.Hspec
 
 spec :: Spec
