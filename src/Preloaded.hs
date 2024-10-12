@@ -28,4 +28,6 @@ isWaveSorted xs
   where
     divvinger = divvy 3 2 xs
 
-data Tree = Node { val :: Int, left, right :: Maybe Tree }
+data Tree = Node {val :: Int, left, right :: Maybe Tree}
+
+data Point = Point {x :: Double, y :: Double} deriving (Show)
