@@ -4,7 +4,7 @@ import Data.List.Split (divvy)
 
 data Shape
   = Rectangle {width, length :: Double}
-  | Circle {radius :: Double}
+  | Circle1 {radius1 :: Double}
   deriving (Eq, Show)
 
 data RPSLS = Rock | Paper | Scissors | Lizard | Spock deriving (Show, Eq)
@@ -30,4 +30,12 @@ isWaveSorted xs
 
 data Tree = Node {val :: Int, left, right :: Maybe Tree}
 
-data Point = Point {x :: Double, y :: Double} deriving (Show)
+data Point = Point 
+  { xValue :: Double
+  , yValue :: Double 
+  } deriving (Show, Eq)
+  
+data Circle = Circle
+  { center :: Point
+  , radius :: Double
+  } deriving (Show, Eq)

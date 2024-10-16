@@ -11,4 +11,4 @@ sortByArea = sortOn toArea
 
 toArea :: Shape -> Double
 toArea (Rectangle a b) = a * b
-toArea (Circle r) = r * r * pi
+toArea (Circle1 r) = r * r * pi

@@ -1,7 +1,6 @@
 module DistanceSpec (spec) where
 
-import Preloaded (Point(..))
-import Distance (distance)
+import Distance (distance, Point(..))
 import Test.Hspec
 import Control.Monad (unless)
 
