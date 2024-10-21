@@ -39,3 +39,5 @@ data Circle = Circle
   { center :: Point
   , radius :: Double
   } deriving (Show, Eq)
+
+newtype Player = Player {name :: String} deriving (Show, Eq)
