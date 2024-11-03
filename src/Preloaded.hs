@@ -41,3 +41,7 @@ data Circle = Circle
   } deriving (Show, Eq)
 
 newtype Player = Player {name :: String} deriving (Show, Eq)
+
+animals = ["Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"]
+
+elements = ["Wood", "Fire", "Earth", "Metal", "Water"]
