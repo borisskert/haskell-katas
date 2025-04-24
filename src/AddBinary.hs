@@ -14,3 +14,17 @@ intToBinary n
     digit
       | rest == 0 = '0'
       | otherwise = '1'
+
+-- #againwhatlearned
+
+-- 1. use `showBin` of `Numeric` module
+-- addBinary a b = showBin (a+b) ""
+
+-- 2. use `showIntAtBase` of `Numeric` module
+-- addBinary a b = showIntAtBase 2 intToDigit (a+b) ""
+
+-- 3. Simple `toBinary` function
+-- toBinary :: Int -> String
+-- toBinary 0 = "0"
+-- toBinary 1 = "1"
+-- toBinary n = toBinary (n `div` 2) <> toBinary (n `mod` 2)
