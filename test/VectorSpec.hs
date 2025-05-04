@@ -1,20 +1,12 @@
-module VectorSpec (spec) where
+module VectorSpec where
 
 import Test.Hspec
-import Vector (vectorLength)
-import Control.Monad (when)
-import Text.Printf
-
-shouldBeFuzzy :: Double -> Double -> Expectation
-shouldBeFuzzy act exp = when (abs (act - exp) >= 1e-7) $ expectationFailure msg
-  where msg = "Expected value must be near " ++ show exp ++ " but got: " ++ show act
+import Test.Hspec.Codewars
+import Vector (magnitude)
 
 spec :: Spec
 spec = do
-    describe "finds the vector length" $ do
-        it "fixed cases" $ do
-          vectorLength [[0, 1],[0, 0]] `shouldBeFuzzy` 1.0
-          vectorLength [[0, 3],[4, 0]] `shouldBeFuzzy` 5
-          vectorLength [[1, -1],[1, -1]] `shouldBeFuzzy` 0
-          vectorLength [[0, 0],[0, 0]] `shouldBeFuzzy` 0
-          vectorLength [[0, 0.3],[0.4, 0]] `shouldBeFuzzy` 0.5
+  it "Fixed Tests" $ do
+    magnitude [0, 0] `shouldBeApprox` 0
+    magnitude [2 / 3, 1 / 3, 2 / 3] `shouldBeApprox` 1
+    magnitude [-2, -4, 4] `shouldBeApprox` 6

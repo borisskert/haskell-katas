@@ -1,12 +1,9 @@
-module Vector (vectorLength) where
+module Vector (magnitude) where
 
--- https://www.codewars.com/kata/554dc2b88fbafd2e95000125/train/haskell
+-- https://www.codewars.com/kata/5806c2f897dba05dd900004c/train/haskell
 
-vectorLength :: [[Double]] -> Double
-vectorLength = length' . sub
-  where
-    sub :: [[Double]] -> [Double]
-    sub [(x1 : y1 : _), (x2 : y2 : _)] = [x2 - x1, y2 - y1]
+magnitude :: [Double] -> Double
+magnitude vector = sqrt (sum (map square vector))
 
-    length' :: [Double] -> Double
-    length' (x : y : _) = sqrt (x ^ 2 + y ^ 2)
+square :: Double -> Double
+square x = x * x
