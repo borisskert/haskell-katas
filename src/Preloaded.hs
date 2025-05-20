@@ -49,3 +49,10 @@ animals = ["Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "
 elements = ["Wood", "Fire", "Earth", "Metal", "Water"]
 
 data Colour = White | Black deriving (Show, Eq, Ord, Enum, Bounded)
+
+data AnimalCount = AnimalCount
+  { rabbits :: Int,
+    chickens :: Int,
+    cows :: Int
+  }
+  deriving (Show, Eq)
